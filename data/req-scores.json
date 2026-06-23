@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T12:00:04+00:00",
-    "generated_at_local": "2026-06-23 07:00",
-    "source_file": "snowflake-pull.json (fetched=2026-06-16T14:05:02+00:00, 125 jobs, 301 submittals)",
+    "generated_at": "2026-06-23T13:31:11+00:00",
+    "generated_at_local": "2026-06-23 08:31",
+    "source_file": "snowflake-pull.json (fetched=2026-06-23T13:24:56+00:00, 125 jobs, 301 submittals)",
     "req_count": 123,
     "llm_enabled": true,
     "bands": {
@@ -100,7 +100,7 @@
       "llm_status": "ok",
       "jd_hash": "b71c20c3f2e8257a",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11869&view=Overview",
       "submittal_intel": null
@@ -192,7 +192,7 @@
       "llm_status": "ok",
       "jd_hash": "e453b2016d8a5003",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11995&view=Overview",
       "submittal_intel": null
@@ -280,7 +280,7 @@
       "llm_status": "ok",
       "jd_hash": "c2b5362125b01caf",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11877&view=Overview",
       "submittal_intel": null
@@ -362,7 +362,7 @@
       "llm_status": "ok",
       "jd_hash": "c6a025bf338fdb31",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11931&view=Overview",
       "submittal_intel": {
@@ -517,7 +517,7 @@
       "llm_status": "ok",
       "jd_hash": "43860fbf6c1cf7a9",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11876&view=Overview",
       "submittal_intel": {
@@ -632,7 +632,7 @@
       "llm_status": "ok",
       "jd_hash": "39ea2e6f943dd15f",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11959&view=Overview",
       "submittal_intel": null
@@ -723,7 +723,7 @@
       "llm_status": "ok",
       "jd_hash": "09701c2a57f2bc48",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11875&view=Overview",
       "submittal_intel": {
@@ -819,7 +819,7 @@
       "llm_status": "ok",
       "jd_hash": "aeb98ac12e48b329",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11987&view=Overview",
       "submittal_intel": null
@@ -906,11 +906,11 @@
       "llm_status": "ok",
       "jd_hash": "a8f425da39e3cd99",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11992&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "Two candidates submitted to this Houston on-site Project Scheduler req, both currently at Interview Scheduled with Tallgrass \u2014 Pooley Okojie (actively coordinating/rescheduling a virtual interview as of 6/9) and Michael Agofure (submitted 6/4, no recorded candidate activity since). No rejections yet, so no rejection-pattern signal on this req.",
+        "pipeline_summary": "Two candidates submitted to this Tallgrass Project Scheduler contract in early June 2026, both at Interview Scheduled \u2014 Pooley Okojie (interview being rescheduled around 6/5-6/9) and Michael Agofure (submitted 6/4, no note activity since). No rejections recorded yet, so no client-side reject signal to learn from.",
         "rejection_patterns": [],
         "candidates": [
           {
@@ -919,22 +919,22 @@
             "candidate_name": "Pooley Okojie",
             "current_status": "Interview Scheduled",
             "last_activity_date": "2026-06-09",
-            "days_since_last_activity": 0,
-            "is_stalled": false,
-            "where_they_are": "Submitted at $65/hr PR ($84.50 BR); virtual Teams interview with manager Stephen Farrell was set for 6/5 then rescheduled (candidate was traveling for a family program), and as of 6/9 there's still confusion over the exact interview time/date \u2014 actively in motion, just needs the invite nailed down.",
-            "placement_likelihood": 70,
+            "days_since_last_activity": 14,
+            "is_stalled": true,
+            "where_they_are": "Submitted at $65/hr (BR $84.50) and had a virtual interview with manager Stephen Farrell targeted for 6/5 at 1:30pm CST, then a reschedule was in progress per SMS through 6/8-6/9; no note activity in 14 days \u2014 confirm whether the interview actually happened.",
+            "placement_likelihood": 74,
             "placement_likelihood_band": "viable",
             "fit_strengths": [
-              "Resume and submission confirm hands-on Primavera P6 + MS Project (JD-required) \u2014 'develops and manages resource- and cost-loaded Primavera P6 schedules'",
-              "Direct energy-sector capital-project experience at ConocoPhillips on $200M\u2013$300M pipeline and facility projects, plus a $1.2B data center \u2014 aligns with JD's large/complex capital project and $1B+ portfolio asks",
-              "Pipeline scheduling experience noted ('schedules for pipelines and facility projects'), matching the midstream/pipeline preferred experience"
+              "Resume shows resource- and cost-loaded Primavera P6 schedules for $200M-$300M capital projects at ConocoPhillips, directly matching the large/mega-project scheduling purpose in the JD",
+              "Local to the Houston on-site requirement \u2014 Sugarland, TX 77083, US Citizen, 'open to travel as needed' per submission note",
+              "Hands-on CPM and Level 1-4 schedule development across pipeline/facility O&G projects, aligning with Tallgrass's energy-infrastructure scheduling needs"
             ],
             "fit_risks": [
-              "JD lists 10+ years (8-12 in detail); resume shows ConocoPhillips since April 2022 (~4 yrs), so depends on AM's relaxed 3+ year threshold holding with the manager",
-              "Submission note references job 11999/Pasadena and recruiter is running him on multiple reqs \u2014 confirm he's clearly aligned to and prepped for the Tallgrass interview to avoid mix-ups",
-              "No explicit mention of EcoSys/SAP or Power BI \u2014 verify against JD technical stack before on-site round"
+              "Interview logistics were muddled \u2014 candidate told Tatyana on 6/8 he thought the interview was the next day at 1:30, suggesting calendar confusion that could read as disorganized to the client",
+              "Recruiter was simultaneously submitting him to a Pasadena role (job 11999) \u2014 competing offers could pull him away",
+              "No client feedback captured yet, so fit beyond the resume is unconfirmed \u2014 chase Stephen Farrell for interview outcome"
             ],
-            "fit_rationale": "Strong P6 and oil & gas capital-project substance with an interview imminent; locking down the interview logistics and confirming the manager accepts ~4 years tenure would de-risk the placement."
+            "fit_rationale": "Strong on-paper P6/large-capital-project match local to Houston; de-risk by confirming the interview occurred and getting Stephen Farrell's read before he commits to the competing Pasadena role."
           },
           {
             "submittal_id": 65371,
@@ -944,24 +944,24 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 6/4 and marked Interview Scheduled, but there are zero candidate notes in the last 60 days \u2014 no prep emails, no interview confirmation logged \u2014 so the interview status is unverified and needs a recruiter touch to confirm it's real and scheduled.",
-            "placement_likelihood": 65,
+            "where_they_are": "Submitted 6/4 and marked Interview Scheduled, but there is zero candidate-note activity in the last 60 days \u2014 no interview confirmation, recruiter contact, or client feedback on record; status needs verification.",
+            "placement_likelihood": 70,
             "placement_likelihood_band": "viable",
             "fit_strengths": [
-              "Resume shows strong project-controls depth: Primavera P6, MS Project, Integrated Master Scheduling, CPM, and EVM (SPI/CPI) \u2014 covers the JD's critical-path and performance-tracking must-haves",
-              "EPC and energy-sector experience including petrochemical/refinery capital projects up to $200M at LyondellBasell \u2014 matches JD's petrochemical/large-project requirement",
-              "Manages 5\u201310 concurrent EPC schedules and large activity counts (5,000\u201315,000+), aligning with the JD's 'manage multiple projects at once' competency"
+              "Resume cites 6+ years of EPC project controls with Primavera P6 and MS Project, Integrated Master Scheduling, CPM, and EVM \u2014 a deeper controls toolkit than the JD's baseline scheduler ask",
+              "Energy/O&G capital-project experience at Eversource ($100M+ portfolios) and LyondellBasell (up to $200M), directly relevant to Tallgrass energy infrastructure",
+              "Houston-based (Cypress, TX 77433), supporting the on-site requirement"
             ],
             "fit_risks": [
-              "Resume states 6+ years vs JD's 10+ (8-12) \u2014 depends on the AM's relaxed 3+ year threshold holding",
-              "Current Eversource role is listed as Houston (Remote); this req is strictly 5 days/week on-site in Houston \u2014 confirm willingness to be fully on-site",
-              "No candidate notes/screen on file \u2014 pay rate, availability, and genuine interest are all unconfirmed; verify before the manager interview"
+              "No notes at all \u2014 no interview confirmation, recruiter screen, or client feedback to validate the resume or confirm the interview is real",
+              "Current Eversource role is listed as Remote \u2014 verify willingness/availability for an on-site Houston contract before advancing",
+              "Rate and availability never captured in notes, unlike Pooley \u2014 unknown whether he fits the bill rate band"
             ],
-            "fit_rationale": "Solid P6/EVM/EPC resume that fits the role on paper, but with no recorded recruiter contact the engagement, on-site willingness, and rate are unconfirmed \u2014 a screen call is the key de-risker."
+            "fit_rationale": "Resume is a strong scheduler/controls match for the energy space, but with no notes the interview and on-site/rate fit are unconfirmed \u2014 confirm the interview status and screen for on-site willingness."
           }
         ],
-        "from_cache": true,
-        "analyzed_at": "2026-06-09T16:21:59+00:00"
+        "from_cache": false,
+        "analyzed_at": "2026-06-23T13:30:36+00:00"
       }
     },
     {
@@ -1046,7 +1046,7 @@
       "llm_status": "ok",
       "jd_hash": "9ab828628cfb9095",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=10522&view=Overview",
       "submittal_intel": {
@@ -1583,7 +1583,7 @@
       "llm_status": "ok",
       "jd_hash": "b4e40feb60d4bd6a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11799&view=Overview",
       "submittal_intel": {
@@ -1689,7 +1689,7 @@
       "llm_status": "ok",
       "jd_hash": "029c91d60dedf35c",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11811&view=Overview",
       "submittal_intel": {
@@ -1793,7 +1793,7 @@
       "llm_status": "ok",
       "jd_hash": "f177b7f66eb856fb",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11878&view=Overview",
       "submittal_intel": null
@@ -1868,7 +1868,7 @@
       "llm_status": "ok",
       "jd_hash": "1250f1dda7c9d8f4",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11985&view=Overview",
       "submittal_intel": null
@@ -1955,7 +1955,7 @@
       "llm_status": "ok",
       "jd_hash": "a6f93eaab30f1c28",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11991&view=Overview",
       "submittal_intel": {
@@ -2101,7 +2101,7 @@
       "llm_status": "ok",
       "jd_hash": "4cb2cfe1a0705bf6",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11994&view=Overview",
       "submittal_intel": null
@@ -2183,7 +2183,7 @@
       "llm_status": "ok",
       "jd_hash": "3ff55c46229853ee",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12004&view=Overview",
       "submittal_intel": null
@@ -2265,7 +2265,7 @@
       "llm_status": "ok",
       "jd_hash": "1e1366bc72ec9572",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11963&view=Overview",
       "submittal_intel": null
@@ -2340,7 +2340,7 @@
       "llm_status": "ok",
       "jd_hash": "9149386fc4a5cc5f",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11980&view=Overview",
       "submittal_intel": null
@@ -2421,7 +2421,7 @@
       "llm_status": "ok",
       "jd_hash": "b22236ce7629de63",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11705&view=Overview",
       "submittal_intel": {
@@ -2590,7 +2590,7 @@
       "llm_status": "ok",
       "jd_hash": "cea906054bcc8318",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11746&view=Overview",
       "submittal_intel": {
@@ -2835,11 +2835,11 @@
       "llm_status": "ok",
       "jd_hash": "ec1f241d74c0adca",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11807&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "Three submittals on this exclusive Civil Engineer req: two sit at Client Submission (Malak Fantarus, Jose Olivares) both submitted 5/5 with no client feedback recorded, and one (Luis Sanchez) was rejected 4/27 with no notes. Both live candidates have stalled with zero client-side activity for 34+ days.",
+        "pipeline_summary": "Three submittals on this exclusive Civil Engineer req: Luis Sanchez was rejected 4/27 with no recorded reason, while Malak Fantarus and Jose Olivares both sit at Client Submission (submitted 5/5) with no client-side movement since. Notably, both live candidates are EITs without the PE license the JD lists as required.",
         "rejection_patterns": [],
         "candidates": [
           {
@@ -2847,23 +2847,23 @@
             "candidate_id": 205350,
             "candidate_name": "Malak Fantarus",
             "current_status": "Client Submission",
-            "last_activity_date": "2026-05-05",
-            "days_since_last_activity": 34,
+            "last_activity_date": "2026-05-04",
+            "days_since_last_activity": 49,
             "is_stalled": true,
-            "where_they_are": "Submitted to client 5/5 at PR $70 / BR $97.30 as a 13+ yr senior civil/structural engineer; no client activity in 34 days \u2014 needs a chase; screening note flags he lacks a PE until ~June '26 but Major confirmed PE is not a hard requirement.",
-            "placement_likelihood": 60,
-            "placement_likelihood_band": "viable",
+            "where_they_are": "Submitted to client 5/5 with only an initial LVM logged 5/4; no activity in 49 days \u2014 resume shows 13+ yrs of construction execution but candidate is an EIT (PE in progress), not the licensed PE the JD requires.",
+            "placement_likelihood": 32,
+            "placement_likelihood_band": "weak",
             "fit_strengths": [
-              "Screening note: 'Strong field / construction presence... extensive experience in site execution, contractor coordination, and issue resolution' \u2014 directly matches the JD's heavy field/construction-support emphasis",
-              "13+ yr resume covers large-scale infrastructure, power station and utility/site work plus QA/QC discipline (RFIs, submittals, ITPs, punch lists), aligning with grading/drainage/utilities and construction-execution asks",
-              "Based in DFW, previously worked in Abilene and open to relocation \u2014 fits the on-site Abilene requirement"
+              "Resume shows 13+ years leading construction execution on complex facilities (132/11 kV power station, 24-floor hotel tower) with field engineering leadership and subcontractor coordination \u2014 aligns with JD's field-presence and construction-support emphasis",
+              "Strong QA/QC, RFI/submittal, and constructability-review discipline matching the JD's drawing-interpretation and field-issue-resolution responsibilities",
+              "Texas-based (DFW metroplex) civil/structural background fits the on-site Abilene, TX requirement"
             ],
             "fit_risks": [
-              "No PE \u2014 resume shows EIT only, expects PE mid-June '26; Major said not a hard requirement but this is a JD must-have, verify client accepts before advancing",
-              "Screening note explicitly calls out 'a few gaps to data center/site development role' \u2014 no data center / mission-critical experience, which the client called ideal",
-              "Resume is heavy on vertical/structural (24-floor tower, power station) rather than pure civil site development (grading/drainage layout) \u2014 confirm site-development depth"
+              "Resume states E.I.T. with PE only 'in progress' \u2014 the JD lists PE license as a hard requirement (cited twice plus client comment), so this is a likely disqualifier; verify before pushing with client",
+              "No data-center or mission-critical facility experience, which the client called out as 'ideal'",
+              "Background is heavily structural/vertical building; JD wants site development (grading, drainage, utilities) which the resume does not clearly evidence"
             ],
-            "fit_rationale": "Viable on field/construction strength and Abilene proximity, but de-risk by confirming the client will accept a pending-PE candidate with no data center experience before pushing to interview."
+            "fit_rationale": "Technically experienced in construction execution but lacks the required PE license and site-development/data-center focus \u2014 confirming PE status is the gate, and absent that this submission is at high risk."
           },
           {
             "submittal_id": 65120,
@@ -2873,21 +2873,22 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted to client 5/5 with an aviation/land-development background and construction-phase coordination experience; no recruiter or client notes recorded at all \u2014 status unknown, needs follow-up and a screening write-up.",
-            "placement_likelihood": 48,
-            "placement_likelihood_band": "at_risk",
+            "where_they_are": "Submitted to client 5/5 with no recruiter or client notes recorded since; resume shows ~5 yrs of civil/site-development work (DFW airfield construction-phase support, master-planned community grading/drainage/utilities) but candidate is an EIT with PE 'in progress,' not licensed.",
+            "placement_likelihood": 38,
+            "placement_likelihood_band": "weak",
             "fit_strengths": [
-              "Resume shows direct construction-phase support at DFW airfield projects \u2014 'Provide design clarifications during construction, addressing field conditions' and resolving RFIs/submittals/field conflicts, matching the JD's field-execution emphasis",
-              "Land-development design experience in grading, drainage, utilities and stormwater (Summerlin West, Blue Engineering) directly maps to the JD's grading/drainage/utilities/site-development asks",
-              "AutoCAD/Civil 3D-type design tools and construction-document preparation align with preferred qualifications"
+              "Resume directly matches JD's core asks: 'Designed roadways, grading, drainage, and utility systems for large-scale master-planned developments' and stormwater/detention design",
+              "Construction-phase experience at DFW Airport \u2014 'Provide design clarifications during construction, addressing field conditions' \u2014 fits the JD's field-presence and real-time issue-resolution emphasis",
+              "Civil 3D/CivilD and AutoCAD usage plus permitting/agency-comment experience align with preferred qualifications",
+              "Texas-based (Grand Prairie) for the on-site Abilene role"
             ],
             "fit_risks": [
-              "No PE \u2014 resume lists EIT with 'PE \u2013 In Progress'; JD requires a PE license, verify client tolerance before advancing",
-              "~5 years since 2020 BS puts him at the bottom edge of the JD's 5+ year requirement; he may read as too junior for a senior site/construction role",
-              "No data center / mission-critical facility experience, which the client called ideal",
-              "No recruiter screen or client feedback on file \u2014 fit signal is resume-only and unconfirmed"
+              "Resume lists EIT with 'Professional Engineer (PE) \u2013 In Progress' \u2014 JD requires a licensed PE, making this a likely hard fail; verify licensure status",
+              "Only ~5 years since 2020 graduation, right at the JD's 5+ minimum with no margin",
+              "No data-center or mission-critical facility experience the client flagged as ideal",
+              "No recruiter screen or client feedback on file, so fit beyond the resume is unconfirmed"
             ],
-            "fit_rationale": "At risk given pending PE, borderline tenure and no data center exposure; a recruiter screen documenting construction-phase ownership and PE timeline would de-risk and clarify whether he advances."
+            "fit_rationale": "Strong on-paper site-development and construction-phase fit but missing the required PE license and any client traction \u2014 confirming PE status and pushing for client feedback is what would de-risk this."
           },
           {
             "submittal_id": 64973,
@@ -2897,7 +2898,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 4/20, rejected 4/27 with no recruiter notes or rejection reasoning recorded \u2014 closed, no learning available.",
+            "where_they_are": "Submitted 4/20, rejected 4/27 as 'Not Considered' with no recruiter notes or rejection comment recorded \u2014 closed with no reason captured.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -2905,8 +2906,8 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": true,
-        "analyzed_at": "2026-06-09T16:17:22+00:00"
+        "from_cache": false,
+        "analyzed_at": "2026-06-23T13:30:03+00:00"
       }
     },
     {
@@ -2990,7 +2991,7 @@
       "llm_status": "ok",
       "jd_hash": "2b53c4944fa0bea5",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11955&view=Overview",
       "submittal_intel": null
@@ -3072,7 +3073,7 @@
       "llm_status": "ok",
       "jd_hash": "d4b27a549f15b9a0",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11989&view=Overview",
       "submittal_intel": {
@@ -3185,38 +3186,29 @@
       "llm_status": "ok",
       "jd_hash": "f1bb44a62a4da16a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11211&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "All 7 submittals on this req are rejected \u2014 none in flight. Most were system-only rejections with no recruiter comment; the only documented rejection reason is Timothy Janssen, whom the client claimed ownership of after a first interview (he'd applied directly to their site within the past year). The client's own JD-thread feedback signals strong preference for front-end HMI/GUI experience and engine/industrial-equipment background.",
+        "pipeline_summary": "All 7 submittals on this req are in 'Reject Cand. Not Considered' status with no live pipeline \u2014 nothing currently in flight. Most rejections were system-only with no recorded comments; the richest client signal lives in the JD-level manager feedback, which reveals the role needs true front-end HMI/GUI work plus engine/industrial-equipment affinity.",
         "rejection_patterns": [
           {
-            "pattern": "Client wants genuine front-end HMI/GUI display development, not middleware/back-end engineers \u2014 candidates whose strength is low-level/back-end work get passed over even if they list 'HMI' experience.",
+            "pattern": "Manager wants genuine HMI/GUI FRONT-END development, not middleware or back-end focus \u2014 candidates whose strength is low-level/back-end get passed even with 'HMI' on the resume",
             "candidates_affected": [
               "Jayson"
             ],
-            "evidence_quote": "7/9 client feedback: 'Jayson's HMI experience is primarily focused on middleware rather than front-end development... his interest lies more in low-level or back-end work and that front-end GUI development is not an area he is looking to pursue.'",
-            "sourcing_correction": "In pre-screen, explicitly confirm the candidate has built front-end/in-dash GUI display software and WANTS front-end work \u2014 disqualify pure middleware/back-end profiles before submitting.",
+            "evidence_quote": "Client Feedback 7/9: 'Jayson's HMI experience is primarily focused on middleware rather than front-end development... his interest lies more in low-level or back-end work and that front-end GUI development is not an area he is looking to pursue.'",
+            "sourcing_correction": "Pre-screen explicitly for hands-on in-dash/instrumentation GUI and UI/UX front-end work and confirm the candidate WANTS front-end development \u2014 don't accept 'HMI' as a keyword without verifying it means display/UI, not middleware.",
             "confidence": "medium"
           },
           {
-            "pattern": "Client strongly prefers experience with (or genuine enthusiasm for) engines, industrial, recreational, or marine equipment because initial work involves industrial engines and water-pump applications \u2014 lack of it is a recurring knock.",
+            "pattern": "Manager values engine / industrial / recreational-equipment domain knowledge or genuine enthusiasm for the products (water pumps, off-road, marine) \u2014 lack of it is a real disqualifier even though the JD only lists it as a 'plus'",
             "candidates_affected": [
               "Jayson"
             ],
-            "evidence_quote": "7/1: 'having knowledge of engines or industrial applications would be a significant plus, as the initial work for this position will involve working with industrial engines and applications for water pumps.' 7/9: 'Jayson does not have direct experience with engines or industrial/recreational equipment, nor did he express a particular interest.'",
-            "sourcing_correction": "Screen for and surface any engine/industrial/marine/off-highway domain exposure (professional OR personal/hobby) on the resume, and ask candidates to articulate enthusiasm for the products \u2014 make it a submission talking point.",
+            "evidence_quote": "Update 07/01: 'having knowledge of engines or industrial applications would be a significant plus, as the initial work... will involve working with industrial engines and applications for water pumps.' 7/9: 'Jayson does not have direct experience with engines or industrial/recreational equipment, nor did he express a particular interest... it's important for the developer to either have relevant HMI/GUI experience or a genuine enthusiasm for the products.'",
+            "sourcing_correction": "Screen for any engine/industrial/marine/off-road equipment exposure (professional OR personal/hobby) and probe for genuine product enthusiasm during intake; flag this affinity to the client up front rather than relying on resume keywords.",
             "confidence": "medium"
-          },
-          {
-            "pattern": "Client claims ownership of candidates who applied directly to their website within the prior year, killing the submittal post-interview.",
-            "candidates_affected": [
-              "Timothy Janssen"
-            ],
-            "evidence_quote": "4/20 reject note: 'client claimed ownership after first interview, stating candidate had applied to their website within the last year.'",
-            "sourcing_correction": "Before submitting, ask the candidate whether they've applied directly to Enovation Controls in the past 12 months to avoid losing them to an ownership dispute after interview.",
-            "confidence": "low"
           }
         ],
         "candidates": [
@@ -3226,9 +3218,9 @@
             "candidate_name": "Timothy Janssen",
             "current_status": "Reject Cand. Not Considered",
             "last_activity_date": "2026-04-29",
-            "days_since_last_activity": 41,
+            "days_since_last_activity": 55,
             "is_stalled": false,
-            "where_they_are": "Submitted 3/10, interviewed, then rejected 4/20 because the client claimed ownership (candidate had applied to their website within the last year); as of 4/29 SMS he still believed he was 'being considered' by HR \u2014 effectively dead on this req, close out.",
+            "where_they_are": "Submitted 3/10, marked rejected in OakTree, but per 4/28 SMS he told recruiter Noah he reached out to Enovation HR and was 'still being considered' \u2014 status and reality may be out of sync; worth confirming with the client before fully closing out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3243,7 +3235,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 9/25, rejected (last modified 10/27) with no recruiter comment or candidate notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted 9/25, rejected (Not Considered) with no recruiter comments or notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3258,7 +3250,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 11/14, rejected (last modified 3/9) with no comment or notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted 11/14, rejected (Not Considered) with no notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3273,7 +3265,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 12/1, rejected 12/30 with no recruiter comment or notes \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted 12/1, rejected (Not Considered) with no notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3288,7 +3280,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted and rejected the same day (2/18) with no comment or notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted and rejected (Not Considered) same day 2/18 with no notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3303,7 +3295,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted and rejected the same day (2/18) with no comment or notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted and rejected (Not Considered) same day 2/18 with no notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3318,7 +3310,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted and rejected the same day (2/20) with no comment or notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted and rejected (Not Considered) same day 2/20 with no notes recorded \u2014 closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3326,8 +3318,8 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": true,
-        "analyzed_at": "2026-06-09T16:15:41+00:00"
+        "from_cache": false,
+        "analyzed_at": "2026-06-23T13:29:11+00:00"
       }
     },
     {
@@ -3400,38 +3392,23 @@
       "llm_status": "ok",
       "jd_hash": "be8338349851cb01",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11465&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "All 3 submittals on this req are rejected \u2014 none in flight. Only Paul Baker advanced to a live interview (4/21) before being passed over 4/24; the other two (Edmond Jagger, Elamathi Veerasamy) were rejected with no notes recorded.",
+        "pipeline_summary": "Three candidates submitted to Select Engineering on this Civil/Structural req between 1/20 and 4/14 \u2014 all three were rejected, nothing currently in flight. The only rejection with a recorded reason was Paul Baker, passed over for a more junior candidate the manager already had in play.",
         "rejection_patterns": [
           {
-            "pattern": "Client passed on Paul Baker specifically because they had a more junior candidate in play, consistent with the AM note that the manager is 'open to candidates without a PE license' and to 'less than 5 years of experience' \u2014 signaling a real lean toward more junior/lower-cost profiles despite the JD asking for a licensed PE with 5\u201310 years.",
+            "pattern": "Manager passed on a candidate because they had a more junior candidate already in play \u2014 consistent with the client's stated openness to (and apparent preference for) less-experienced Civil/Structural engineers.",
             "candidates_affected": [
               "Paul Baker"
             ],
-            "evidence_quote": "'The hiring manager said they had another candidate in play who was more junior than Paul.' AM notes also clarify the client is flexible on experience level and open to unlicensed candidates.",
-            "sourcing_correction": "Lead with Civil/Structural degree + EPC/O&G experience as the must-haves (not PE or seniority); prioritize sourcing earlier-career Civil/Structural engineers with industrial EPC exposure rather than senior licensed PEs, and confirm rate expectations are competitive against a more junior comparator.",
+            "evidence_quote": "'The hiring manager said they had another candidate in play who was more junior than Paul' (reject note 4/24)",
+            "sourcing_correction": "Lead with the lower end of the experience range \u2014 the client AM notes explicitly say they're open to unlicensed/<5-year candidates; prioritize junior Civil/Structural + EPC profiles over senior PE-licensed ones to match what the manager is actually selecting.",
             "confidence": "low"
           }
         ],
         "candidates": [
-          {
-            "submittal_id": 64938,
-            "candidate_id": 92006,
-            "candidate_name": "Paul Baker",
-            "current_status": "Reject Cand. Not Considered",
-            "last_activity_date": "2026-04-24",
-            "days_since_last_activity": 52,
-            "is_stalled": false,
-            "where_they_are": "Interviewed onsite 4/21 with Paul Tobben after a strong prep call; rejected 4/24 because the hiring manager had 'another candidate in play who was more junior' \u2014 closed out, candidate notified 4/24.",
-            "placement_likelihood": null,
-            "placement_likelihood_band": "n/a",
-            "fit_strengths": [],
-            "fit_risks": [],
-            "fit_rationale": ""
-          },
           {
             "submittal_id": 63994,
             "candidate_id": 137301,
@@ -3440,7 +3417,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 1/20, rejected by 1/27 with no recruiter or rejection notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted 1/20, rejected by 1/27 with no recruiter notes or stated reason recorded \u2014 closed out, no signal to learn from.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3455,7 +3432,22 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted and rejected same day (4/10) with no notes recorded \u2014 closed, reason unknown.",
+            "where_they_are": "Submitted and rejected same day on 4/10 with no notes recorded \u2014 closed out, no reason captured.",
+            "placement_likelihood": null,
+            "placement_likelihood_band": "n/a",
+            "fit_strengths": [],
+            "fit_risks": [],
+            "fit_rationale": ""
+          },
+          {
+            "submittal_id": 64938,
+            "candidate_id": 92006,
+            "candidate_name": "Paul Baker",
+            "current_status": "Reject Cand. Not Considered",
+            "last_activity_date": "2026-04-24",
+            "days_since_last_activity": 59,
+            "is_stalled": false,
+            "where_they_are": "Submitted 4/14, rejected 4/24 \u2014 the hiring manager passed because they had a more junior candidate in play; recruiter Chris Pittenger called Paul 4/24 to let him know Select was passing. Closed out.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -3463,8 +3455,8 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": true,
-        "analyzed_at": "2026-06-16T16:46:43+00:00"
+        "from_cache": false,
+        "analyzed_at": "2026-06-23T13:29:25+00:00"
       }
     },
     {
@@ -3543,7 +3535,7 @@
       "llm_status": "ok",
       "jd_hash": "59b1422122e6b1c9",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11864&view=Overview",
       "submittal_intel": null
@@ -3625,7 +3617,7 @@
       "llm_status": "ok",
       "jd_hash": "40d52f876139547e",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11868&view=Overview",
       "submittal_intel": {
@@ -3753,7 +3745,7 @@
       "llm_status": "ok",
       "jd_hash": "1749a65b0d2e3448",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11928&view=Overview",
       "submittal_intel": null
@@ -3828,7 +3820,7 @@
       "llm_status": "ok",
       "jd_hash": "a8a059187e6d2c5c",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11979&view=Overview",
       "submittal_intel": null
@@ -3903,7 +3895,7 @@
       "llm_status": "ok",
       "jd_hash": "dc17e03a2da0cdf0",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11981&view=Overview",
       "submittal_intel": {
@@ -4023,7 +4015,7 @@
       "llm_status": "ok",
       "jd_hash": "f7ecdd74b138b98a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12003&view=Overview",
       "submittal_intel": {
@@ -4130,7 +4122,7 @@
       "llm_status": "ok",
       "jd_hash": "4fc8b30963a4c745",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11867&view=Overview",
       "submittal_intel": null
@@ -4212,7 +4204,7 @@
       "llm_status": "ok",
       "jd_hash": "4d30c67ffdd5fc8a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11961&view=Overview",
       "submittal_intel": {
@@ -4324,7 +4316,7 @@
       "llm_status": "ok",
       "jd_hash": "0ad53cfaf673d6d2",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11084&view=Overview",
       "submittal_intel": {
@@ -4417,7 +4409,7 @@
       "llm_status": "ok",
       "jd_hash": "259a9b4bbe045c23",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11265&view=Overview",
       "submittal_intel": {
@@ -4578,7 +4570,7 @@
       "llm_status": "ok",
       "jd_hash": "bcb08eabf9f6cd70",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11491&view=Overview",
       "submittal_intel": {
@@ -4787,7 +4779,7 @@
       "llm_status": "ok",
       "jd_hash": "a233c1231ead0ad3",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11580&view=Overview",
       "submittal_intel": {
@@ -4965,7 +4957,7 @@
       "llm_status": "ok",
       "jd_hash": "4586f9785804d02f",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11639&view=Overview",
       "submittal_intel": null
@@ -5040,7 +5032,7 @@
       "llm_status": "ok",
       "jd_hash": "fb2231e29dc55ffd",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11768&view=Overview",
       "submittal_intel": {
@@ -5153,7 +5145,7 @@
       "llm_status": "ok",
       "jd_hash": "949500a7d2920534",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11941&view=Overview",
       "submittal_intel": {
@@ -5268,7 +5260,7 @@
       "llm_status": "ok",
       "jd_hash": "1b2000901c80e308",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11962&view=Overview",
       "submittal_intel": null
@@ -5343,7 +5335,7 @@
       "llm_status": "ok",
       "jd_hash": "4b352434b5ba18d8",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12008&view=Overview",
       "submittal_intel": null
@@ -5413,7 +5405,7 @@
       "llm_status": "ok",
       "jd_hash": "3ea48a668ab2b203",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12014&view=Overview",
       "submittal_intel": {
@@ -5520,7 +5512,7 @@
       "llm_status": "ok",
       "jd_hash": "e076b5d810b69e19",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12028&view=Overview",
       "submittal_intel": null
@@ -5596,7 +5588,7 @@
       "llm_status": "ok",
       "jd_hash": "608a2425cabd1e07",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11003&view=Overview",
       "submittal_intel": {
@@ -5724,7 +5716,7 @@
       "llm_status": "ok",
       "jd_hash": "f1291860093c3cce",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11004&view=Overview",
       "submittal_intel": {
@@ -5834,7 +5826,7 @@
       "llm_status": "ok",
       "jd_hash": "11f8aaabd6351625",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11688&view=Overview",
       "submittal_intel": {
@@ -5983,7 +5975,7 @@
       "llm_status": "ok",
       "jd_hash": "eedf6b778325bc26",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11747&view=Overview",
       "submittal_intel": null
@@ -6056,7 +6048,7 @@
       "llm_status": "ok",
       "jd_hash": "834a2a3ae677d3e3",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11766&view=Overview",
       "submittal_intel": {
@@ -6481,7 +6473,7 @@
       "llm_status": "ok",
       "jd_hash": "355b3527b1275d68",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11790&view=Overview",
       "submittal_intel": {
@@ -6647,7 +6639,7 @@
       "llm_status": "ok",
       "jd_hash": "5425f592e70b366a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11795&view=Overview",
       "submittal_intel": {
@@ -6760,7 +6752,7 @@
       "llm_status": "ok",
       "jd_hash": "1e6d35b15cc12a4b",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11817&view=Overview",
       "submittal_intel": {
@@ -6879,7 +6871,7 @@
       "llm_status": "ok",
       "jd_hash": "02445ef69d3b97da",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11838&view=Overview",
       "submittal_intel": {
@@ -7028,7 +7020,7 @@
       "llm_status": "ok",
       "jd_hash": "3c8a043d76eb8ede",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11860&view=Overview",
       "submittal_intel": {
@@ -7142,7 +7134,7 @@
       "llm_status": "ok",
       "jd_hash": "aa2bdaeadce50a72",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11861&view=Overview",
       "submittal_intel": null
@@ -7211,7 +7203,7 @@
       "llm_status": "ok",
       "jd_hash": "876e5fcdf9bf26ed",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11863&view=Overview",
       "submittal_intel": null
@@ -7285,7 +7277,7 @@
       "llm_status": "ok",
       "jd_hash": "dab62c942755a0e6",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11866&view=Overview",
       "submittal_intel": {
@@ -7389,7 +7381,7 @@
       "llm_status": "ok",
       "jd_hash": "43dc1bb2a83c1cff",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11894&view=Overview",
       "submittal_intel": {
@@ -7549,7 +7541,7 @@
       "llm_status": "ok",
       "jd_hash": "f7542d2fccc252bb",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11903&view=Overview",
       "submittal_intel": null
@@ -7617,7 +7609,7 @@
       "llm_status": "ok",
       "jd_hash": "7cfd85eaf2bde9da",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11912&view=Overview",
       "submittal_intel": null
@@ -7693,7 +7685,7 @@
       "llm_status": "ok",
       "jd_hash": "c91aa178bdc9e062",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11926&view=Overview",
       "submittal_intel": null
@@ -7768,7 +7760,7 @@
       "llm_status": "ok",
       "jd_hash": "82fa222d2cb4b865",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11970&view=Overview",
       "submittal_intel": null
@@ -7843,7 +7835,7 @@
       "llm_status": "ok",
       "jd_hash": "287798573bdf9ea6",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11971&view=Overview",
       "submittal_intel": null
@@ -7910,7 +7902,7 @@
       "llm_status": "ok",
       "jd_hash": "56ed5832bce7bd34",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11972&view=Overview",
       "submittal_intel": null
@@ -7985,7 +7977,7 @@
       "llm_status": "ok",
       "jd_hash": "acb8a47b2908cc59",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11982&view=Overview",
       "submittal_intel": null
@@ -8062,7 +8054,7 @@
       "llm_status": "ok",
       "jd_hash": "4d6319a162abd5de",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11998&view=Overview",
       "submittal_intel": null
@@ -8144,7 +8136,7 @@
       "llm_status": "ok",
       "jd_hash": "81ab5ea17378009e",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12005&view=Overview",
       "submittal_intel": null
@@ -8225,7 +8217,7 @@
       "llm_status": "ok",
       "jd_hash": "d9d408f8363581fe",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12024&view=Overview",
       "submittal_intel": {
@@ -8332,7 +8324,7 @@
       "llm_status": "ok",
       "jd_hash": "4b016717f90f744d",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11564&view=Overview",
       "submittal_intel": {
@@ -8427,7 +8419,7 @@
       "llm_status": "ok",
       "jd_hash": "badc1ec18192617a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11631&view=Overview",
       "submittal_intel": {
@@ -8646,11 +8638,11 @@
       "llm_status": "ok",
       "jd_hash": "5d2c0c57b1cb7028",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11663&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "4 submissions cited but only 2 in this history: Thasan Thiagalingam was rejected (Not Considered) with no recorded reasoning, and Roshan Kumar Singh completed an onsite interview with manager Gino Papola in late April. Roshan is the only live candidate but has gone silent for 50 days post-interview with no client decision recorded.",
+        "pipeline_summary": "Four submissions cited on the req but two are recorded here: one in-flight (Roshan Kumar Singh at Interview Complete) and one rejected (Thasan Thiagalingam, Not Considered with no comment). No client-side feedback notes are captured in the last 60 days, so the interview outcome for Singh is unknown.",
         "rejection_patterns": [],
         "candidates": [
           {
@@ -8658,34 +8650,35 @@
             "candidate_id": 205502,
             "candidate_name": "Roshan Kumar Singh",
             "current_status": "Interview Complete",
-            "last_activity_date": "2026-04-27",
-            "days_since_last_activity": 50,
-            "is_stalled": true,
-            "where_they_are": "Submitted 3/6, prepped and sent onsite to 1001 E. Hector St. Conshohocken to interview with Gino Papola around 4/24; recruiter followed up 4/27 to connect but no client decision has been recorded in 50 days \u2014 needs a chase or the seat may be filled.",
-            "placement_likelihood": 63,
+            "last_activity_date": "",
+            "days_since_last_activity": -1,
+            "is_stalled": false,
+            "where_they_are": "Submitted 3/6, reached Interview Complete with the record last modified 4/8; no interview-feedback note has been logged, so the outcome is unknown \u2014 needs a status chase with the client.",
+            "placement_likelihood": 60,
             "placement_likelihood_band": "viable",
             "fit_strengths": [
-              "Resume shows 5+ years of direct cost-focused project controls with extensive Oracle Primavera P6 use (P6 is 'preferred' in the JD) and EVMS/CPI/SPI experience, matching the role's earned-value and cost-control mandate",
-              "Documented cost report development, cash flow forecasting, budget variance analysis, and upstream/downstream change-order cost analysis \u2014 directly mirrors the JD's cost reporting, forecasting, and change-order review duties",
-              "Resume cites interfacing with accounting departments and supporting external audits, aligning with the JD's 'Interfaces with Project Management Team and Accounting Department to review costs and support external audits'",
-              "Advanced to a completed onsite interview with the hiring manager (Gino Papola), the furthest stage in the pipeline"
+              "Resume shows extensive Oracle Primavera P6 cost-control and EVMS experience, directly matching the JD's 'Experience with Oracle Primavera P6 preferred' and earned-value requirements",
+              "Cost reports, cash flow forecasting, and budget variance analysis across EPC projects align tightly with the req's cost-report/cash-flow/forecast deliverables",
+              "Change-order cost analysis (upstream prime contract / downstream PO & subcontract) and PO/subcontract cost-coding validation map directly to the JD's change-order and PO-approval duties",
+              "5+ years direct project controls cost experience exceeds the JD's 3-year minimum"
             ],
             "fit_risks": [
-              "Role is strictly onsite in Conshohocken, PA but resume lists Scranton, PA (open to Columbus, OH) \u2014 confirm relocation/daily-commute commitment before next step",
-              "Current role (Sep 2025\u2013present) is at an 'AI Automation Services' firm rather than EPC/construction; verify the client viewed his recent non-construction context as relevant",
-              "50-day post-interview silence with no recorded client feedback \u2014 verify whether B&M is still considering him or has moved on"
+              "Resume lists location as 'Scranton, PA (Open to Columbus, OH)' with no mention of Conshohocken \u2014 this is a strict on-site role, so commute/relocation must be confirmed",
+              "No engineering/construction-management degree is shown (Google PMP cert only); relies on the JD's experience-substitution clause \u2014 verify the client accepts this",
+              "Most recent role (XaltraX, AI automation) is technology project controls rather than construction/EPC \u2014 confirm the client values transferable cost-control experience",
+              "No interview-feedback note recorded, so client read on fit is unknown \u2014 chase before assuming viability"
             ],
-            "fit_rationale": "Strong cost/P6/EVMS resume that hits the JD's core asks and reached interview-complete; placement hinges on confirming onsite-Conshohocken commitment and re-engaging the client for a decision after the long silence."
+            "fit_rationale": "Strong cost-controls/P6 substance on paper makes him viable, but confirming on-site commitment to Conshohocken and pulling the missing interview feedback would de-risk the placement."
           },
           {
             "submittal_id": 64589,
             "candidate_id": 205475,
-            "candidate_name": "Thasan Thiagalingam",
+            "candidate_name": "Thasan  Thiagalingam",
             "current_status": "Reject Cand. Not Considered",
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 3/6, marked Reject Cand. Not Considered by 3/18 with no recruiter comments or notes recorded \u2014 closed, no learnable reason captured.",
+            "where_they_are": "Submitted 3/6 and marked 'Reject Cand. Not Considered' by 3/18 with no recruiter comment or notes recorded \u2014 closed with no usable rejection reason.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -8694,7 +8687,7 @@
           }
         ],
         "from_cache": true,
-        "analyzed_at": "2026-06-16T16:47:24+00:00"
+        "analyzed_at": "2026-06-09T12:28:31+00:00"
       }
     },
     {
@@ -8767,7 +8760,7 @@
       "llm_status": "ok",
       "jd_hash": "1150840f2d96649b",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11736&view=Overview",
       "submittal_intel": {
@@ -8862,7 +8855,7 @@
       "llm_status": "ok",
       "jd_hash": "e8b51908f85d53ac",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11760&view=Overview",
       "submittal_intel": {
@@ -9064,7 +9057,7 @@
       "llm_status": "ok",
       "jd_hash": "9cb044e67e49289c",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11778&view=Overview",
       "submittal_intel": null
@@ -9132,7 +9125,7 @@
       "llm_status": "ok",
       "jd_hash": "ed502320528f25a9",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11784&view=Overview",
       "submittal_intel": {
@@ -9239,7 +9232,7 @@
       "llm_status": "ok",
       "jd_hash": "45d7e06e96e8c697",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11785&view=Overview",
       "submittal_intel": {
@@ -9337,7 +9330,7 @@
       "llm_status": "ok",
       "jd_hash": "54df233c1d279591",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11816&view=Overview",
       "submittal_intel": {
@@ -9475,7 +9468,7 @@
       "llm_status": "ok",
       "jd_hash": "ae39e0c2ae5f83a5",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11818&view=Overview",
       "submittal_intel": {
@@ -9677,7 +9670,7 @@
       "llm_status": "ok",
       "jd_hash": "e9c3e3527714eb4a",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11848&view=Overview",
       "submittal_intel": {
@@ -9861,7 +9854,7 @@
       "llm_status": "ok",
       "jd_hash": "ae21f389602e86bc",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11862&view=Overview",
       "submittal_intel": null
@@ -9935,7 +9928,7 @@
       "llm_status": "ok",
       "jd_hash": "741fedad429d98a6",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11885&view=Overview",
       "submittal_intel": {
@@ -10080,7 +10073,7 @@
       "llm_status": "ok",
       "jd_hash": "c22b7e4f08778c06",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11904&view=Overview",
       "submittal_intel": null
@@ -10156,7 +10149,7 @@
       "llm_status": "ok",
       "jd_hash": "848c34f76dd27dbc",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11907&view=Overview",
       "submittal_intel": {
@@ -10283,7 +10276,7 @@
       "llm_status": "ok",
       "jd_hash": "a4d7f61bfa89494c",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11922&view=Overview",
       "submittal_intel": {
@@ -10381,7 +10374,7 @@
       "llm_status": "ok",
       "jd_hash": "b9c782c91767d242",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11936&view=Overview",
       "submittal_intel": {
@@ -10487,7 +10480,7 @@
       "llm_status": "ok",
       "jd_hash": "4c236743529aa5cb",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11939&view=Overview",
       "submittal_intel": {
@@ -10620,7 +10613,7 @@
       "llm_status": "ok",
       "jd_hash": "864193c7653f67a0",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11950&view=Overview",
       "submittal_intel": null
@@ -10694,7 +10687,7 @@
       "llm_status": "ok",
       "jd_hash": "93728e08564a617e",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11960&view=Overview",
       "submittal_intel": {
@@ -10790,7 +10783,7 @@
       "llm_status": "ok",
       "jd_hash": "4bdf0e69015b7893",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11969&view=Overview",
       "submittal_intel": null
@@ -10866,7 +10859,7 @@
       "llm_status": "ok",
       "jd_hash": "374a58fe59a67c86",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11978&view=Overview",
       "submittal_intel": {
@@ -10987,7 +10980,7 @@
       "llm_status": "ok",
       "jd_hash": "a63c809c5b1d5dab",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11984&view=Overview",
       "submittal_intel": null
@@ -11053,7 +11046,7 @@
       "llm_status": "ok",
       "jd_hash": "8c21f0bbd9b690de",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11986&view=Overview",
       "submittal_intel": {
@@ -11159,7 +11152,7 @@
       "llm_status": "ok",
       "jd_hash": "0595f7dbc9b9139a",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11996&view=Overview",
       "submittal_intel": {
@@ -11296,7 +11289,7 @@
       "llm_status": "ok",
       "jd_hash": "f739f292b95d3a8d",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12001&view=Overview",
       "submittal_intel": {
@@ -11411,7 +11404,7 @@
       "llm_status": "ok",
       "jd_hash": "45e2a5d2c9c7cc86",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12007&view=Overview",
       "submittal_intel": null
@@ -11485,7 +11478,7 @@
       "llm_status": "ok",
       "jd_hash": "edf327d7d825eef1",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12011&view=Overview",
       "submittal_intel": {
@@ -11576,7 +11569,7 @@
       "llm_status": "ok",
       "jd_hash": "439b53e6ba8995da",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11886&view=Overview",
       "submittal_intel": null
@@ -11649,7 +11642,7 @@
       "llm_status": "ok",
       "jd_hash": "8bb6711358ffa863",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11949&view=Overview",
       "submittal_intel": {
@@ -11768,7 +11761,7 @@
       "llm_status": "ok",
       "jd_hash": "8ed041e00a5383e9",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11997&view=Overview",
       "submittal_intel": null
@@ -11845,7 +11838,7 @@
       "llm_status": "ok",
       "jd_hash": "1e7141d57b548af2",
       "first_scored_at": "2026-06-09T16:23:37+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12010&view=Overview",
       "submittal_intel": null
@@ -11916,7 +11909,7 @@
       "llm_status": "ok",
       "jd_hash": "34359e9d34772a45",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12029&view=Overview",
       "submittal_intel": null
@@ -11984,7 +11977,7 @@
       "llm_status": "ok",
       "jd_hash": "1391e7e7734253a9",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11791&view=Overview",
       "submittal_intel": {
@@ -12098,7 +12091,7 @@
       "llm_status": "ok",
       "jd_hash": "9507be0fe1360ec5",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11599&view=Overview",
       "submittal_intel": {
@@ -12226,7 +12219,7 @@
       "llm_status": "ok",
       "jd_hash": "8b87f5afb2a4dc2c",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11911&view=Overview",
       "submittal_intel": {
@@ -12350,7 +12343,7 @@
       "llm_status": "ok",
       "jd_hash": "7c8a23ae8101da57",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11792&view=Overview",
       "submittal_intel": {
@@ -12456,7 +12449,7 @@
       "llm_status": "ok",
       "jd_hash": "3851ba5a20f3ee85",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11956&view=Overview",
       "submittal_intel": {
@@ -12621,7 +12614,7 @@
       "llm_status": "ok",
       "jd_hash": "042486518b01ff37",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11976&view=Overview",
       "submittal_intel": {
@@ -12720,7 +12713,7 @@
       "llm_status": "ok",
       "jd_hash": "af2360a365579532",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11977&view=Overview",
       "submittal_intel": {
@@ -12825,11 +12818,11 @@
       "llm_status": "ok",
       "jd_hash": "3fa118dad6e1ed7d",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11999&view=Overview",
       "submittal_intel": {
-        "pipeline_summary": "Three candidates submitted on this exclusive P6 Planner/Scheduler req: two sit at Client Submission (Pooley Okojie, submitted 6/4, and Gail Wilson, submitted 6/10) and one (Chukwuka Akagbusi) was rejected 6/9 with no recorded reasoning. No client-side feedback or interview activity has come back yet on either live submission.",
+        "pipeline_summary": "Three submittals on this exclusive H+M Planner/Scheduler req: two in Client Submission (Pooley Okojie, Gail Wilson) and one rejected (Chukwuka Akagbusi, no reasoning recorded). Both live candidates carry strong P6/oil & gas resumes but neither shows client-side feedback yet.",
         "rejection_patterns": [],
         "candidates": [
           {
@@ -12838,21 +12831,23 @@
             "candidate_name": "Pooley Okojie",
             "current_status": "Client Submission",
             "last_activity_date": "2026-06-09",
-            "days_since_last_activity": 7,
+            "days_since_last_activity": 14,
             "is_stalled": true,
-            "where_they_are": "Submitted to H+M 6/4 at $65/hr pay ($84.50 bill); recent note activity (6/9) is all about a separate Tallgrass interview, with no client response from H+M for 7 days \u2014 chase Brandy Cates for status.",
-            "placement_likelihood": 63,
+            "where_they_are": "Submitted to H+M 6/4 at $65/hr pay, $84.50 bill; every recruiter note since then is about a separate Tallgrass interview (6/5), with zero H+M client feedback for 14 days \u2014 chase Brandy Cates for status.",
+            "placement_likelihood": 68,
             "placement_likelihood_band": "viable",
             "fit_strengths": [
-              "Resume shows hands-on Primavera P6 and MS Project on $200M\u2013$300M oil & gas capital projects at ConocoPhillips, directly matching the JD's P6 and capital-projects requirement",
-              "Client submission notes confirm 'Open to travel as needed' \u2014 the AM flagged travel willingness as a 'big bonus' for this req",
-              "Local to the role: based in Sugarland, TX, an easy commute to the Pasadena on-site requirement"
+              "Submission and resume confirm hands-on Primavera P6 (and MS Project) on $200M-$300M capital projects at ConocoPhillips \u2014 directly matches JD's 'P6 scheduling software (5+ years)' and capital-projects requirement",
+              "Oil & gas EPC alignment: 'resource- and cost-loaded project schedules for pipelines and facility projects... across all phases' matches the AM note 'Oil & Gas EPC exp. Highly proficient with P6'",
+              "Submission explicitly captures 'Open to travel as needed' \u2014 directly addresses the client's stated travel bonus",
+              "Rate ($84.50 bill) sits within the $78.00-$110.50 band, no rate obstacle"
             ],
             "fit_risks": [
-              "Resume shows ~4 years at ConocoPhillips (April 2022\u2013present) against the JD's 5+ years of P6/scheduling experience \u2014 verify total YOE before client screen",
-              "No mention of Power BI anywhere in resume or notes, which the JD and AM both call out as a desired skill"
+              "No mention of Power BI anywhere in resume or notes \u2014 JD lists 'Knowledge and/or experience with Power BI' as a qualification; verify before next stage",
+              "ConocoPhillips tenure reads April 2022-present (~4 yrs) and total YOE is unstated \u2014 JD wants 5+ years planning/scheduling; confirm full experience clears the floor",
+              "Recruiter focus has shifted to a competing Tallgrass interview \u2014 risk the candidate gets placed elsewhere before H+M moves"
             ],
-            "fit_rationale": "Strong P6 and oil & gas capital-projects substance with confirmed travel willingness and local presence; confirming 5+ years P6 and any Power BI exposure would de-risk the submission."
+            "fit_rationale": "Solid P6/oil & gas capital-projects profile that fits the core ask; confirming 5+ total YOE and any Power BI exposure would de-risk, but the bigger risk is losing him to the parallel Tallgrass process."
           },
           {
             "submittal_id": 65435,
@@ -12862,20 +12857,20 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted to H+M 6/10 with a strong resume but no recruiter notes recorded \u2014 a system-only submission with no client feedback yet; confirm Brandy received it.",
+            "where_they_are": "Submitted 6/10 with no notes recorded yet and no client response \u2014 too early to be stalled; monitor for client feedback over the next few days.",
             "placement_likelihood": 70,
             "placement_likelihood_band": "viable",
             "fit_strengths": [
-              "Resume cites 15+ years of planning/scheduling and Primavera P6 on multi-billion-dollar upstream/downstream/midstream oil & gas projects \u2014 well above the JD's 5+ year and P6 bars",
-              "Demonstrated earned-value, forecasting, variance analysis, and critical-path/recovery planning, mapping directly to the JD's EV, schedule-variance and mitigation responsibilities",
-              "Recent Enbridge contract scheduler role (Houston) ended June 2025, suggesting immediate availability for this CTH need"
+              "Resume shows 15+ years planning/scheduling and 'Primavera P6 to create work breakdown structure, maintain critical path methodology and earned value management' \u2014 exceeds JD's 5+ years P6 requirement",
+              "Strong oil & gas / EPC breadth ('subsea, upstream, downstream, midstream') plus a recent senior scheduler contract at Enbridge \u2014 matches the EPC scheduling profile",
+              "Demonstrated EVM and variance/recovery analysis ('schedule analysis to identify risks, critical path activities, and recovery strategies') maps to JD's earned value and schedule-variance duties"
             ],
             "fit_risks": [
-              "No Power BI mentioned on resume \u2014 JD and AM list it as desired; verify before client screen",
-              "No recruiter screen notes capturing travel willingness or rate expectations \u2014 the AM flagged travel as a 'big bonus' and pay tops out at $85/hr; confirm both",
-              "Profile reads senior (Sr. Scheduler/Planner III) \u2014 confirm comfort with the contract-to-hire rate band and on-site Pasadena requirement"
+              "No Power BI mentioned on resume \u2014 JD calls for Power BI knowledge; verify",
+              "No screening notes captured \u2014 willingness to travel and on-site/hybrid Pasadena availability are unconfirmed despite the client flagging travel as a priority",
+              "Rate expectation not documented \u2014 confirm she fits the $60-$85/hr pay band before client engages"
             ],
-            "fit_rationale": "Deep P6 and oil & gas project-controls experience makes her a viable-to-strong fit on paper; a screen confirming travel willingness, rate, and Power BI would solidify her."
+            "fit_rationale": "Deeply experienced senior P6/oil & gas scheduler whose resume clears the core JD bar; capturing travel willingness, rate, and any Power BI exposure in a screen would de-risk an otherwise strong submission."
           },
           {
             "submittal_id": 65402,
@@ -12885,7 +12880,7 @@
             "last_activity_date": "",
             "days_since_last_activity": -1,
             "is_stalled": false,
-            "where_they_are": "Submitted 6/8 and rejected as 'Not Considered' on 6/9 with no recruiter notes or rejection reasoning recorded \u2014 closed out with no learnable signal.",
+            "where_they_are": "Rejected ('Not Considered') 6/9, one day after a 6/8 submittal, with no recruiter notes or reasoning recorded \u2014 closed, no learning available.",
             "placement_likelihood": null,
             "placement_likelihood_band": "n/a",
             "fit_strengths": [],
@@ -12893,8 +12888,8 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": true,
-        "analyzed_at": "2026-06-16T16:55:00+00:00"
+        "from_cache": false,
+        "analyzed_at": "2026-06-23T13:31:11+00:00"
       }
     },
     {
@@ -12967,7 +12962,7 @@
       "llm_status": "ok",
       "jd_hash": "2bffed6e7064cd54",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12009&view=Overview",
       "submittal_intel": null
@@ -13043,7 +13038,7 @@
       "llm_status": "ok",
       "jd_hash": "525213599a60ce00",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12022&view=Overview",
       "submittal_intel": null
@@ -13119,7 +13114,7 @@
       "llm_status": "ok",
       "jd_hash": "c1efae7e64e6dc80",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12023&view=Overview",
       "submittal_intel": null
@@ -13198,7 +13193,7 @@
       "llm_status": "ok",
       "jd_hash": "eb13ed200ee4b904",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12025&view=Overview",
       "submittal_intel": {
@@ -13299,7 +13294,7 @@
       "llm_status": "ok",
       "jd_hash": "36f47814e4c2b19f",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12030&view=Overview",
       "submittal_intel": null
@@ -13373,7 +13368,7 @@
       "llm_status": "ok",
       "jd_hash": "a88633114430ce77",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12034&view=Overview",
       "submittal_intel": null
@@ -13433,7 +13428,7 @@
       "llm_status": "ok",
       "jd_hash": "cce66ffe84c1ad9d",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11591&view=Overview",
       "submittal_intel": {
@@ -13529,7 +13524,7 @@
       "llm_status": "ok",
       "jd_hash": "859ec9582cd2f4cb",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11929&view=Overview",
       "submittal_intel": {
@@ -13686,7 +13681,7 @@
       "llm_status": "ok",
       "jd_hash": "c3a002411b054ba0",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11958&view=Overview",
       "submittal_intel": {
@@ -13948,7 +13943,7 @@
       "llm_status": "ok",
       "jd_hash": "b9a4be1ac1c8b5b5",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11966&view=Overview",
       "submittal_intel": {
@@ -14066,7 +14061,7 @@
       "llm_status": "ok",
       "jd_hash": "bade512b85dd39c7",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12017&view=Overview",
       "submittal_intel": {
@@ -14161,7 +14156,7 @@
       "llm_status": "ok",
       "jd_hash": "5a053a4248c57b67",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12026&view=Overview",
       "submittal_intel": null
@@ -14240,7 +14235,7 @@
       "llm_status": "ok",
       "jd_hash": "2b5f40c2f99ef36d",
       "first_scored_at": "2026-06-16T16:30:55+00:00",
-      "last_scored_at": "2026-06-23T12:00:04+00:00",
+      "last_scored_at": "2026-06-23T13:31:11+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12027&view=Overview",
       "submittal_intel": null
