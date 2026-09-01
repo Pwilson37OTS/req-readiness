@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T15:04:06+00:00",
-    "generated_at_local": "2026-09-01 10:04",
+    "generated_at": "2026-09-01T18:00:09+00:00",
+    "generated_at_local": "2026-09-01 13:00",
     "source_file": "snowflake-pull.json (fetched=2026-09-01T12:53:02+00:00, 126 jobs, 248 submittals)",
     "req_count": 125,
     "llm_enabled": true,
@@ -11,7 +11,7 @@
       "needs": 3,
       "notready": 0
     },
-    "new_or_changed": 119
+    "new_or_changed": 0
   },
   "reqs": [
     {
@@ -22,7 +22,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 122,
+      "days_open": 123,
       "submittals": 1,
       "readiness_score": 47,
       "band": "needs",
@@ -98,8 +98,8 @@
       "llm_status": "ok",
       "jd_hash": "042d27494037afcf",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11876&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Single submittal on this req: Salvador Sanchez submitted to client 5/21/2026 and still sitting at Client Submission with no candidate-note activity in the last 60 days \u2014 the pipeline is thin and quiet, with no client feedback recorded yet.",
@@ -143,7 +143,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 122,
+      "days_open": 123,
       "submittals": 1,
       "readiness_score": 52,
       "band": "needs",
@@ -219,8 +219,8 @@
       "llm_status": "ok",
       "jd_hash": "ccd1774585886be5",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11875&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one submittal on this req: Ernesto Abila, submitted 5/29 and rejected same day as 'Reject Cand. Not Considered' with no notes recorded. Pipeline is effectively empty with nothing in flight.",
@@ -254,7 +254,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 122,
+      "days_open": 123,
       "submittals": 0,
       "readiness_score": 52,
       "band": "needs",
@@ -329,7 +329,7 @@
       "llm_status": "ok",
       "jd_hash": "c2b5362125b01caf",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11877&view=Overview",
       "submittal_intel": null
@@ -342,7 +342,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 122,
+      "days_open": 123,
       "submittals": 0,
       "readiness_score": 68,
       "band": "minor",
@@ -411,7 +411,7 @@
       "llm_status": "ok",
       "jd_hash": "f177b7f66eb856fb",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11878&view=Overview",
       "submittal_intel": null
@@ -493,8 +493,8 @@
       "llm_status": "ok",
       "jd_hash": "6610363936123249",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12194&view=Overview",
       "submittal_intel": null
     },
@@ -570,8 +570,8 @@
       "llm_status": "ok",
       "jd_hash": "6583b52fd5a4f830",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12197&view=Overview",
       "submittal_intel": null
     },
@@ -647,8 +647,8 @@
       "llm_status": "ok",
       "jd_hash": "49a22a6ae79673eb",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12014&view=Overview",
       "submittal_intel": null
     },
@@ -660,7 +660,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 62,
+      "days_open": 63,
       "submittals": 1,
       "readiness_score": 72,
       "band": "minor",
@@ -729,8 +729,8 @@
       "llm_status": "ok",
       "jd_hash": "4f6d63be88f7dd2e",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12109&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one submittal on this req: Louise Gilchrist, a current scale operator at Vulcan Materials, was submitted 8/17 at $26/hr and rejected on 8/24 ('your resume was declined') with no stated reason. Pipeline is empty and the req remains open for 2 positions.",
@@ -764,7 +764,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 0,
       "readiness_score": 72,
       "band": "minor",
@@ -826,8 +826,8 @@
       "llm_status": "ok",
       "jd_hash": "075b2873682f1798",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12117&view=Overview",
       "submittal_intel": null
     },
@@ -839,7 +839,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 0,
       "readiness_score": 72,
       "band": "minor",
@@ -901,8 +901,8 @@
       "llm_status": "ok",
       "jd_hash": "40002857b95bd638",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12119&view=Overview",
       "submittal_intel": null
     },
@@ -914,7 +914,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 0,
       "readiness_score": 72,
       "band": "minor",
@@ -982,8 +982,8 @@
       "llm_status": "ok",
       "jd_hash": "60d492694aa9512d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12120&view=Overview",
       "submittal_intel": null
     },
@@ -1064,8 +1064,8 @@
       "llm_status": "ok",
       "jd_hash": "c4d2b55c02dc8887",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12193&view=Overview",
       "submittal_intel": null
     },
@@ -1146,8 +1146,8 @@
       "llm_status": "ok",
       "jd_hash": "b4703b206b014d02",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12196&view=Overview",
       "submittal_intel": null
     },
@@ -1229,8 +1229,8 @@
       "llm_status": "ok",
       "jd_hash": "12629579e89da2d6",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12289&view=Overview",
       "submittal_intel": null
     },
@@ -1310,8 +1310,8 @@
       "llm_status": "ok",
       "jd_hash": "89ed77781e5acf38",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12300&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two candidates were submitted directly to P66 via email at a $143 bill rate (John Muller 8/14, Darin Wines 8/18), both under status Client Submission. On 8/25 both were told the client 'decided to move forward with other candidates' \u2014 the pipeline is effectively empty and this exclusive req needs fresh sourcing.",
@@ -1365,7 +1365,7 @@
             "fit_rationale": "On paper the ideal profile (Anvil + PE + refinery unit PM + local), but the client has already passed, so placement likelihood is now low; if any reopening occurs, confirm his commitment to a 12-month+ contract given the retirement framing."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:58:42+00:00"
       }
     },
@@ -1448,8 +1448,8 @@
       "llm_status": "ok",
       "jd_hash": "5ac78e828f781824",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12350&view=Overview",
       "submittal_intel": null
     },
@@ -1461,7 +1461,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 62,
+      "days_open": 63,
       "submittals": 0,
       "readiness_score": 73,
       "band": "minor",
@@ -1530,8 +1530,8 @@
       "llm_status": "ok",
       "jd_hash": "fb565b56e048ed92",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12110&view=Overview",
       "submittal_intel": null
     },
@@ -1612,8 +1612,8 @@
       "llm_status": "ok",
       "jd_hash": "b980ca020d534f09",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12195&view=Overview",
       "submittal_intel": null
     },
@@ -1685,8 +1685,8 @@
       "llm_status": "ok",
       "jd_hash": "4e0105c605e4bfb6",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12320&view=Overview",
       "submittal_intel": null
     },
@@ -1698,7 +1698,7 @@
       "salesperson": "Zoie Floyd",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 270,
+      "days_open": 271,
       "submittals": 3,
       "readiness_score": 74,
       "band": "minor",
@@ -1760,7 +1760,7 @@
       "llm_status": "ok",
       "jd_hash": "be8338349851cb01",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11465&view=Overview",
       "submittal_intel": {
@@ -1880,8 +1880,8 @@
       "llm_status": "ok",
       "jd_hash": "638fb7b9763fd95e",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12034&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only 1 of the 5 max submittals is recorded here (Bobby Washington), and he was rejected/'Not Considered' on 6/15 with no candidate notes. The req is live and reopened 8/13 (prior contractor didn't work out on culture fit); client explicitly says they need more, less-qualified applicants.",
@@ -1925,7 +1925,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 62,
+      "days_open": 63,
       "submittals": 2,
       "readiness_score": 74,
       "band": "minor",
@@ -1994,8 +1994,8 @@
       "llm_status": "ok",
       "jd_hash": "7dbae1da93473f29",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12108&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two submittals on this 2-position scale-house req: Jimi Davis was rejected 8/7 specifically for lacking scale-house operation experience, and Debbie McCurdy is live at Client Submission (submitted 8/21) and actively engaged, though she's juggling competing offers. Client has explicitly hardened scale-house experience into a must-have.",
@@ -2062,7 +2062,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 42,
+      "days_open": 43,
       "submittals": 2,
       "readiness_score": 74,
       "band": "minor",
@@ -2133,8 +2133,8 @@
       "llm_status": "ok",
       "jd_hash": "4d78b216aabd1437",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12182&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two real submittals on this Controller req: George Varughese was rejected 8/25 ('per client: not a fit') after a short first-round interview, and James Bowman is deep in the process \u2014 through a 3rd interview with the CFO on 8/25 and an onsite scheduled for 9/4. One strong candidate still live, one dead.",
@@ -2255,8 +2255,8 @@
       "llm_status": "ok",
       "jd_hash": "861aed762f356e07",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12272&view=Overview",
       "submittal_intel": null
     },
@@ -2268,7 +2268,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 3,
+      "days_open": 4,
       "submittals": 0,
       "readiness_score": 74,
       "band": "minor",
@@ -2300,7 +2300,7 @@
         "pay_rate"
       ],
       "no_client_access": true,
-      "outcome_score": 64,
+      "outcome_score": 24,
       "is_recruitable_today": true,
       "role_summary": "A hands-on warehouse inventory analyst embedded at Air Liquide's Pasadena facility to execute a maintenance-inventory consolidation project \u2014 reconciling and cleaning up Maximo/Oracle data, physically moving/verifying spare parts (forklift), and reporting KPIs to plant and supply chain management.",
       "role_family": "Industrial supply chain / maintenance inventory (MRO) operations",
@@ -2330,8 +2330,8 @@
       "llm_status": "ok",
       "jd_hash": "bfca4088ca340956",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12351&view=Overview",
       "submittal_intel": null
     },
@@ -2403,8 +2403,8 @@
       "llm_status": "ok",
       "jd_hash": "3184aaf2fe8bf132",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12290&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two real submittals on this exclusive req: Austin Rivers was submitted 8/11 at BR 132.05, interviewed with Scott & Corey who liked him and wanted a 2nd interview, but was rejected 8/24 because his comp ask was too high. Diego Castillo (submitted 8/12 at BR 118.15) is still in-flight awaiting an interview that Corey keeps delaying because he's opening 3 quarries.",
@@ -2461,7 +2461,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:56:43+00:00"
       }
     },
@@ -2541,7 +2541,7 @@
       "llm_status": "ok",
       "jd_hash": "0ad53cfaf673d6d2",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11084&view=Overview",
       "submittal_intel": {
@@ -2576,7 +2576,7 @@
       "salesperson": "Sarah King",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 340,
+      "days_open": 341,
       "submittals": 8,
       "readiness_score": 78,
       "band": "minor",
@@ -2634,7 +2634,7 @@
       "llm_status": "ok",
       "jd_hash": "259a9b4bbe045c23",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11265&view=Overview",
       "submittal_intel": {
@@ -2834,8 +2834,8 @@
       "llm_status": "ok",
       "jd_hash": "8f9c9170d7dcc7f9",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11758&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Req reopened 7/27 after the prior finalist declined; of 3 submittals, Andrea Kinman withdrew 8/17 for another opportunity and Shannan Tenze \u2014 who reached final onsite (8/31) \u2014 accepted a competing offer from American Power Innovations on 8/28, leaving the pipeline effectively empty and needing fresh candidates ASAP.",
@@ -2918,7 +2918,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 77,
+      "days_open": 78,
       "submittals": 5,
       "readiness_score": 78,
       "band": "minor",
@@ -2972,8 +2972,8 @@
       "llm_status": "ok",
       "jd_hash": "828d5672e450f1f9",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12046&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "5 submittals: 4 are dead (Steven Duncan and Sterling Stutchman both interviewed with Alec and were rejected on 7/15 primarily over the US-degree requirement, Frank Sandifer withdrew for another offer, Barrington Zenn rejected with no notes). Only Steven Baker is live \u2014 he completed a two-round interview (virtual 8/19 + onsite 8/27 with Alec and Grant) with strongly positive feedback and thank-you notes are with the client as of 8/28.",
@@ -3095,7 +3095,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 70,
+      "days_open": 71,
       "submittals": 2,
       "readiness_score": 78,
       "band": "minor",
@@ -3156,8 +3156,8 @@
       "llm_status": "ok",
       "jd_hash": "8b673bd2d254d767",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12072&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One live submittal on this exclusive LNG regulatory req: Hector Gonzalez was sent to client on 8/25 at $95/hr and is awaiting client feedback. Daniel Godinez was rejected 8/20 with no recorded reason.",
@@ -3216,7 +3216,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 0,
       "readiness_score": 78,
       "band": "minor",
@@ -3271,8 +3271,8 @@
       "llm_status": "ok",
       "jd_hash": "086f88fb201cbef1",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12118&view=Overview",
       "submittal_intel": null
     },
@@ -3345,8 +3345,8 @@
       "llm_status": "ok",
       "jd_hash": "1e1d60e08ef802ce",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12203&view=Overview",
       "submittal_intel": null
     },
@@ -3419,8 +3419,8 @@
       "llm_status": "ok",
       "jd_hash": "aab0cfa9f6494425",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12204&view=Overview",
       "submittal_intel": null
     },
@@ -3432,7 +3432,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 26,
+      "days_open": 27,
       "submittals": 0,
       "readiness_score": 78,
       "band": "minor",
@@ -3495,8 +3495,8 @@
       "llm_status": "ok",
       "jd_hash": "96c86432a051f40a",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12274&view=Overview",
       "submittal_intel": null
     },
@@ -3508,7 +3508,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 26,
+      "days_open": 27,
       "submittals": 0,
       "readiness_score": 78,
       "band": "minor",
@@ -3565,8 +3565,8 @@
       "llm_status": "ok",
       "jd_hash": "38ce2cdd57ef4f97",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12276&view=Overview",
       "submittal_intel": null
     },
@@ -3634,8 +3634,8 @@
       "llm_status": "ok",
       "jd_hash": "91af503825ff72dc",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12280&view=Overview",
       "submittal_intel": null
     },
@@ -3716,8 +3716,8 @@
       "llm_status": "ok",
       "jd_hash": "9e865d7093d498fe",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12281&view=Overview",
       "submittal_intel": null
     },
@@ -3792,7 +3792,7 @@
       "llm_status": "ok",
       "jd_hash": "608a2425cabd1e07",
       "first_scored_at": "2026-06-05T17:47:48+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
       "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11003&view=Overview",
       "submittal_intel": {
@@ -3872,7 +3872,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 111,
+      "days_open": 112,
       "submittals": 7,
       "readiness_score": 80,
       "band": "minor",
@@ -3927,8 +3927,8 @@
       "llm_status": "ok",
       "jd_hash": "2caf092011e922c1",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11909&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "7 submittals on this Direct Hire Assistant Controller req: 3 currently in Client Submission awaiting client feedback (Yelzhan Konakbayev at $200k, Musfrah Rana at $180k, Janette Perez at $175k) and 4 rejected (Hannah Wilson, Zakary Utley, Brendan Carlin, Ryan Meyer). Both recently-submitted candidates from 8/18-8/19 have gone quiet with no client response, and the client's own feedback (on Zak) sharpened the must-haves toward deep private/industry accounting and internal international exposure.",
@@ -4152,8 +4152,8 @@
       "llm_status": "ok",
       "jd_hash": "3c5fed78ab737332",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11982&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one submittal on this req: Syed Najeemuddin, submitted 6/29/2026 and rejected same day ('Reject Cand. Not Considered'). Nothing is currently in flight \u2014 pipeline is effectively empty.",
@@ -4243,8 +4243,8 @@
       "llm_status": "ok",
       "jd_hash": "fae28982b9ebbefd",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12067&view=Overview",
       "submittal_intel": null
     },
@@ -4256,7 +4256,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 0,
       "readiness_score": 80,
       "band": "minor",
@@ -4318,8 +4318,8 @@
       "llm_status": "ok",
       "jd_hash": "35caacb0915b2f5e",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12121&view=Overview",
       "submittal_intel": null
     },
@@ -4331,7 +4331,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 1,
       "readiness_score": 80,
       "band": "minor",
@@ -4387,8 +4387,8 @@
       "llm_status": "ok",
       "jd_hash": "971b98992a01d948",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12122&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One submittal on this req (Clarence McChristian), rejected as 'Not Considered' on 7/16 with no reasoning recorded. Nothing currently in flight and no client-side signal captured.",
@@ -4422,7 +4422,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 55,
+      "days_open": 56,
       "submittals": 6,
       "readiness_score": 80,
       "band": "minor",
@@ -4484,8 +4484,8 @@
       "llm_status": "ok",
       "jd_hash": "423366dbbe33847c",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12135&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Six submittals on this Williams Design Coordinator req: three rejected/withdrew (Breyundria Jackson, Samantha Fowler, Izarely Montelongo) and three still in Client Submission (Samson Balogun, Xenia Wilson, Heather Deal). The req stalled client-side \u2014 Jordan's 7/17 note says Williams couldn't open the req until the contractor being backfilled officially confirmed her new role \u2014 so Samson and Xenia have been sitting ~48-49 days with no manager feedback.",
@@ -4698,8 +4698,8 @@
       "llm_status": "ok",
       "jd_hash": "b0aaa4d3e5f4d24a",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12158&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Exclusive P66 CTH role with 6 submittals: 2 alive at Client Submission (Kobe Young at $110 BR, Ahmad Sarwar at $105 BR), both submitted via direct email (no VMS) and awaiting client feedback for ~14 days. Four rejections, including one clear work-authorization knockout (H1B can't convert) and one candidate (Crystal Tabor) who looks mis-submitted from an unrelated coordinator req.",
@@ -4833,7 +4833,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 46,
+      "days_open": 47,
       "submittals": 0,
       "readiness_score": 80,
       "band": "minor",
@@ -4893,8 +4893,8 @@
       "llm_status": "ok",
       "jd_hash": "d154c77742e741ca",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12169&view=Overview",
       "submittal_intel": null
     },
@@ -4961,8 +4961,8 @@
       "llm_status": "ok",
       "jd_hash": "b17acde11d00d7a0",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12170&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three real submittals on this Level 2-3 field-tech req: one in-flight (Carlos Warner, interview being rescheduled after a client no-show on 8/28) and two client rejections (Matthew Rogers, Jose Fernando Flores). Both rejections came from Amy Prokopov on 8/6 for distinct but revealing reasons \u2014 indoor/climate-controlled background and insufficient experience.",
@@ -5123,8 +5123,8 @@
       "llm_status": "ok",
       "jd_hash": "1d175292198a6428",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12199&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Four submittals: two are in-flight Client Submissions (Hirenkumar Raval and Monica Ciuffarin-Zupin), and two (Elamathi Veerasamy, Thomas Gawlik) were rejected 'Not Considered' with no recorded notes. Both live candidates have complications \u2014 a visa/work-authorization question on Raval and a possible duplicate-submission/salary-above-band issue on Ciuffarin-Zupin, which has now stalled 26 days.",
@@ -5220,7 +5220,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 40,
+      "days_open": 41,
       "submittals": 0,
       "readiness_score": 80,
       "band": "minor",
@@ -5282,8 +5282,8 @@
       "llm_status": "ok",
       "jd_hash": "d4a453b4d79e4b79",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12201&view=Overview",
       "submittal_intel": null
     },
@@ -5295,7 +5295,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 26,
+      "days_open": 27,
       "submittals": 0,
       "readiness_score": 80,
       "band": "minor",
@@ -5359,8 +5359,8 @@
       "llm_status": "ok",
       "jd_hash": "d4d562514e4fee26",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12275&view=Overview",
       "submittal_intel": null
     },
@@ -5432,8 +5432,8 @@
       "llm_status": "ok",
       "jd_hash": "8cb9941d35577098",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12278&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one candidate was submitted on this exclusive req \u2014 Stephen Ajayi, who interviewed with CITGO on 8/26 and was passed on around 8/28. The pipeline is now empty and needs fresh, highly-qualified Project Engineers at the top rate.",
@@ -5455,7 +5455,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:56:12+00:00"
       }
     },
@@ -5467,7 +5467,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 17,
+      "days_open": 18,
       "submittals": 0,
       "readiness_score": 80,
       "band": "minor",
@@ -5527,8 +5527,8 @@
       "llm_status": "ok",
       "jd_hash": "33f26f2e92d2d843",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12304&view=Overview",
       "submittal_intel": null
     },
@@ -5600,8 +5600,8 @@
       "llm_status": "ok",
       "jd_hash": "336e9fd0614be9ab",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12306&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one submittal on this req (Jordan Esser), submitted 8/28/26 and immediately marked 'Reject Cand. Not Considered' with no recorded notes; pipeline is effectively empty with nothing in flight.",
@@ -5623,7 +5623,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:58:47+00:00"
       }
     },
@@ -5635,7 +5635,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 12,
+      "days_open": 13,
       "submittals": 2,
       "readiness_score": 80,
       "band": "minor",
@@ -5702,8 +5702,8 @@
       "llm_status": "ok",
       "jd_hash": "c11e8e048beeb27c",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12312&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two submittals on this Salt Lake refinery Project Controls req: Nancy Carrillo interviewed 8/12 and was passed on 8/17 with no specific feedback (closed), and Brendan Oguwike was submitted 8/27 and is awaiting client review \u2014 HM said 8/26 they'd be reviewing resumes that week and scheduling interviews.",
@@ -5750,7 +5750,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:00:21+00:00"
       }
     },
@@ -5762,7 +5762,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 11,
+      "days_open": 12,
       "submittals": 1,
       "readiness_score": 80,
       "band": "minor",
@@ -5830,8 +5830,8 @@
       "llm_status": "ok",
       "jd_hash": "69bd0636f4e8bb2d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12318&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One candidate in flight on this exclusive req: John Paschal was submitted to Technip on 8/21 at PR $95 / BR $116.86 and sits at Client Submission with no client response in 8 days. No rejections yet, so no client-side signal on what the manager will accept.",
@@ -5862,7 +5862,7 @@
             "fit_rationale": "Strong senior EPC/LNG electrical profile that fits the JD well; confirming the $116.86 bill rate against the ~$110 ceiling and probing petrochemical/refinery depth would de-risk the placement."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:01:40+00:00"
       }
     },
@@ -5935,8 +5935,8 @@
       "llm_status": "ok",
       "jd_hash": "08abcc87494906f5",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12321&view=Overview",
       "submittal_intel": null
     },
@@ -6009,8 +6009,8 @@
       "llm_status": "ok",
       "jd_hash": "70da0c107884ee58",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12322&view=Overview",
       "submittal_intel": null
     },
@@ -6077,8 +6077,8 @@
       "llm_status": "ok",
       "jd_hash": "398c1feddb6bbb90",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12338&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one candidate has been submitted on this ProCore-focused req, and she was immediately rejected the same day (8/27) for lacking ProCore experience. Pipeline is effectively empty \u2014 no in-flight candidates.",
@@ -6110,7 +6110,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:03:00+00:00"
       }
     },
@@ -6191,8 +6191,8 @@
       "llm_status": "ok",
       "jd_hash": "f61f76592ba177c0",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12340&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two candidates submitted to client on 8/27-8/28, both at Client Submission and freshly in flight (3-4 days old) \u2014 no client feedback yet, no rejections recorded on this req. Both were submitted at BR 87.",
@@ -6246,7 +6246,7 @@
             "fit_rationale": "Viable candidate whose Williams history and CWI credential help, but the sparse, undated resume and welding-heavy profile need firming up against the JD's QA-oversight and Procore requirements."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:03:43+00:00"
       }
     },
@@ -6258,7 +6258,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 1,
       "readiness_score": 80,
       "band": "minor",
@@ -6320,8 +6320,8 @@
       "llm_status": "ok",
       "jd_hash": "f4bc6e74fc5f3fe9",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12342&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one candidate on this req \u2014 Jimmy Aleman, submitted to client 8/27 at $70/hr (top of the pay band). Nothing rejected yet and no client-side feedback in; pipeline is thin for a 2-position field QA req.",
@@ -6353,7 +6353,7 @@
             "fit_rationale": "Strong I&E QA/QC substance and full mobility make him viable, but confirming true 10+ years of QA and genuine compressor-station/pipeline exposure \u2014 plus justifying the $70 top-band rate \u2014 would de-risk the submission."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:04:06+00:00"
       }
     },
@@ -6427,8 +6427,8 @@
       "llm_status": "ok",
       "jd_hash": "a958fdcdd9672383",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12349&view=Overview",
       "submittal_intel": null
     },
@@ -6502,8 +6502,8 @@
       "llm_status": "ok",
       "jd_hash": "57fe0782639827a0",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12353&view=Overview",
       "submittal_intel": null
     },
@@ -6571,8 +6571,8 @@
       "llm_status": "ok",
       "jd_hash": "5410261b0d9c41ae",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12311&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two candidates are live and both at Interview Scheduled \u2014 Heloise Ellzey (interview 8/31) and Shelly Rice (interview 9/1), each with prep calls booked with Stella and Zoie; the client (Crystal/Mike) may have opened this NTW backfill to OakTree only, so speed and quality both matter.",
@@ -6625,7 +6625,7 @@
             "fit_rationale": "Real VMS and MSP-program exposure make her viable, but the recruiter's own doubt about fit and Excel/MSP depth needs to be resolved in prep and the interview to move her up."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:59:42+00:00"
       }
     },
@@ -6696,8 +6696,8 @@
       "llm_status": "ok",
       "jd_hash": "e8ca6da1c3afda9c",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11950&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two submittals on this exclusive req: Kyle Voke was rejected 7/24 with no recorded reason, and Mehul Barot completed his interview and remains the only live candidate \u2014 but the process has stalled 39 days while the CITGO hiring manager was on PTO, and CITGO recently revised the max rate down to $95/hr.",
@@ -6824,8 +6824,8 @@
       "llm_status": "ok",
       "jd_hash": "68ee41564751ee5a",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11969&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three candidates submitted on this urgent piping-focused Sr. Estimator req, and all three were rejected \u2014 two (Noe Elizondo, Wayne Burkholder) closed system-only with no notes, and Angelo Melendez was declined by the client for lacking recent piping estimating experience. Pipeline is currently empty; nothing in flight.",
@@ -6908,7 +6908,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 91,
+      "days_open": 92,
       "submittals": 3,
       "readiness_score": 82,
       "band": "minor",
@@ -6971,8 +6971,8 @@
       "llm_status": "ok",
       "jd_hash": "f92d1fc042d858b1",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11978&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three submittals on this 5-month BOK contract: one rejection (Michael Mowrer, no reasoning recorded) and two at Interview Complete. Beatriz Avelar has cleared background/drug screening and onboarding and is confirmed to start 8/31 \u2014 effectively placed \u2014 which means the single opening is filled and Madison Drake, though still technically in-flight after a long drawn-out process, is likely out.",
@@ -7110,8 +7110,8 @@
       "llm_status": "ok",
       "jd_hash": "0c7a9a787dbdb869",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12023&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Ten submittals on this exclusive CITGO Project Engineer req: four rejected (only two with substantive reasons) and six in the 'Client Submission'/'Interview Complete' bucket. The live end of the pipeline is advanced \u2014 Braam Kruger received a verbal offer 8/28 pending plant approval, Mitchel Mainville is in onboarding with an Oct-15 start at $90/hr, and Anselmo Morales appears to already be working on-site submitting timesheets \u2014 while Vimal Patel and Dip Das have gone cold (32\u201348 days no client activity).",
@@ -7333,7 +7333,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 68,
+      "days_open": 69,
       "submittals": 5,
       "readiness_score": 82,
       "band": "minor",
@@ -7402,8 +7402,8 @@
       "llm_status": "ok",
       "jd_hash": "bc57292bc1126356",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12078&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Five submittals on this exclusive CITGO I&C SME req: two were rejected as generic project engineers (Muhammad Harun, Chaoren Gao), Rajan Patel interviewed and the client explicitly wants him back for another round, Viktor Miller sits at Client Submission awaiting a decision for 34 days, and Ahmed Khan effectively dropped out over the $95/hr rate cut. Client (Gregg Saenz) directly asked for 2\u20133 more true plant-wide SME resumes.",
@@ -7597,8 +7597,8 @@
       "llm_status": "ok",
       "jd_hash": "4fb71200aba1847e",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12083&view=Overview",
       "submittal_intel": null
     },
@@ -7667,8 +7667,8 @@
       "llm_status": "ok",
       "jd_hash": "448fb59ba857b47d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12084&view=Overview",
       "submittal_intel": null
     },
@@ -7737,8 +7737,8 @@
       "llm_status": "ok",
       "jd_hash": "d62237a8824615ba",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12085&view=Overview",
       "submittal_intel": null
     },
@@ -7807,8 +7807,8 @@
       "llm_status": "ok",
       "jd_hash": "ed9e68a4eabcabeb",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12086&view=Overview",
       "submittal_intel": null
     },
@@ -7880,8 +7880,8 @@
       "llm_status": "ok",
       "jd_hash": "c587376143cb5a19",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12098&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "All 3 submittals on this req have been rejected; the two most recent (Madhavi Surve, Aliyat Enilari) were closed same-day as 'not a fit' with no detail, while Summer Chohan advanced through a strong final-round interview but was ultimately rejected 8/28 for insufficient Quorum ERP technical depth. Pipeline is currently empty with no active candidates.",
@@ -8020,8 +8020,8 @@
       "llm_status": "ok",
       "jd_hash": "9658548a2ea27f10",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12103&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "All 3 submittals on this exclusive req are now dead: Ja'Maya Wilson was client-rejected 8/24 for lacking a PE, Ahmad Amous withdrew 7/28 for a direct-hire offer, and Luis Renteria was rejected with no notes. Req reopened 7/22 and remains empty in the client's pipeline \u2014 no live candidates.",
@@ -8165,8 +8165,8 @@
       "llm_status": "ok",
       "jd_hash": "ee234ada489145df",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12105&view=Overview",
       "submittal_intel": null
     },
@@ -8178,7 +8178,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 54,
+      "days_open": 55,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -8241,8 +8241,8 @@
       "llm_status": "ok",
       "jd_hash": "1bd6d8b485826f1d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12139&view=Overview",
       "submittal_intel": null
     },
@@ -8316,8 +8316,8 @@
       "llm_status": "ok",
       "jd_hash": "5351531f7fc536a2",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12149&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only 2 of 8 submittals are documented here: Matthew Hoke is live at Client Submission (submitted 8/17) with the client stalling millwright interviews while they finish controller interviews first, and Albert Valdez withdrew 8/18 over the rotational shift schedule. Client-side momentum is slow but Hoke remains active and eager.",
@@ -8446,8 +8446,8 @@
       "llm_status": "ok",
       "jd_hash": "7fa05f448aaf8a8b",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12150&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Req has 8 total submissions against 4 openings (1 filled, 2 remaining per 8/7 AM note); of the 3 candidates here, Jacob Webley just completed an onsite interview (8/28), Bobby Young is at Client Submission with the client wanting a virtual interview but held up on references, and Orlando Guerrero withdrew 8/18 over the rotational schedule. Live client signal is positive on both remaining candidates.",
@@ -8536,7 +8536,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:52:48+00:00"
       }
     },
@@ -8615,8 +8615,8 @@
       "llm_status": "ok",
       "jd_hash": "96652197ac227c86",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12160&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Four submittals on this exclusive Carthage Facilities Engineer req: Keith Pipkin is the only genuinely live client submission (subbed 8/7 at $220K, willing to relocate to Carthage, awaiting TG feedback). Jacob Pawelek and Antonio Keklikian were both effectively passed on because TG hardened the location requirement to Carthage-daily/full relocation, and Antony Nyariro was rejected on submittal day with no notes.",
@@ -8792,8 +8792,8 @@
       "llm_status": "ok",
       "jd_hash": "aaa0680dbd7a1678",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12168&view=Overview",
       "submittal_intel": null
     },
@@ -8805,7 +8805,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 40,
+      "days_open": 41,
       "submittals": 1,
       "readiness_score": 82,
       "band": "minor",
@@ -8866,8 +8866,8 @@
       "llm_status": "ok",
       "jd_hash": "3caaf6418c068476",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12200&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one candidate on this req: Cassandra Cox, submitted 8/3 and sitting at Client Submission with no client-side response in 24 days. Pipeline is thin and there are no rejections yet, so no client signal on what's landing or missing.",
@@ -8910,7 +8910,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 39,
+      "days_open": 40,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -8966,8 +8966,8 @@
       "llm_status": "ok",
       "jd_hash": "42b9d28f47f04d68",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12209&view=Overview",
       "submittal_intel": null
     },
@@ -9043,8 +9043,8 @@
       "llm_status": "ok",
       "jd_hash": "ea26d6bff0133dec",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12226&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one candidate is live: Steve Nguyen is at Interview Complete with a final in-person interview locked for 8/31 in Sugar Land after clearing VP of Engineering and hiring-manager rounds. The only other submittal, Ashenafi Abebe Mebrat, was rejected the same day submitted (7/31) with no notes.",
@@ -9091,7 +9091,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:53:16+00:00"
       }
     },
@@ -9103,7 +9103,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 34,
+      "days_open": 35,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -9165,8 +9165,8 @@
       "llm_status": "ok",
       "jd_hash": "e7f5af1907d5daab",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12237&view=Overview",
       "submittal_intel": null
     },
@@ -9178,7 +9178,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 26,
+      "days_open": 27,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -9235,8 +9235,8 @@
       "llm_status": "ok",
       "jd_hash": "815a8e78736122ec",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12277&view=Overview",
       "submittal_intel": null
     },
@@ -9302,8 +9302,8 @@
       "llm_status": "ok",
       "jd_hash": "5441e4e30dc2cf2b",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12295&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two candidates sit at Client Submission on this Executive/Admin Assistant req \u2014 Gail Pannell (submitted 8/17) and Julie Torres (submitted 8/12) \u2014 both awaiting client feedback with no interview scheduled yet and no client-side response recorded. No rejections have occurred, so there is no rejection history to learn from.",
@@ -9358,7 +9358,7 @@
             "fit_rationale": "Solid VP-support tenure and cleared the former-Indorama screen, but her SAP experience for expense/invoice processing is unproven (used Concur) and should be verified before the client interview."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:57:39+00:00"
       }
     },
@@ -9431,8 +9431,8 @@
       "llm_status": "ok",
       "jd_hash": "3efba23a15596ca1",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12331&view=Overview",
       "submittal_intel": null
     },
@@ -9497,8 +9497,8 @@
       "llm_status": "ok",
       "jd_hash": "c711fee458bac5c8",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12336&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One candidate in flight on this NTW req: Marisa Saturni was submitted to Tallgrass 8/27 at a $67.50 bill rate and is sitting at Client Submission awaiting hiring-team feedback. No rejections yet, so no client signal on must-haves.",
@@ -9528,7 +9528,7 @@
             "fit_rationale": "Viable-but-at-risk: she has genuine SaaS/SOW and Oracle/SAP contract experience, but the recruiter-prompted resume additions and a rate above the posted range are the two things to de-risk before a client interview."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:02:49+00:00"
       }
     },
@@ -9602,8 +9602,8 @@
       "llm_status": "ok",
       "jd_hash": "08b6be7ba82d6eb0",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12341&view=Overview",
       "submittal_intel": null
     },
@@ -9615,7 +9615,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -9677,8 +9677,8 @@
       "llm_status": "ok",
       "jd_hash": "b904ffc1965572a1",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12343&view=Overview",
       "submittal_intel": null
     },
@@ -9690,7 +9690,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -9745,8 +9745,8 @@
       "llm_status": "ok",
       "jd_hash": "55eb9b6ee1872bfd",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12344&view=Overview",
       "submittal_intel": null
     },
@@ -9758,7 +9758,7 @@
       "salesperson": "Zoie Floyd",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 0,
       "readiness_score": 82,
       "band": "minor",
@@ -9819,8 +9819,8 @@
       "llm_status": "ok",
       "jd_hash": "f135a58a00984917",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12346&view=Overview",
       "submittal_intel": null
     },
@@ -9894,8 +9894,8 @@
       "llm_status": "ok",
       "jd_hash": "1e3a0d9abffe8f23",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12104&view=Overview",
       "submittal_intel": null
     },
@@ -9968,8 +9968,8 @@
       "llm_status": "ok",
       "jd_hash": "cd6c0bb8cdd6f0ec",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12130&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two submittals on this AP Clerk req: Chandra Davidson withdrew on 8/4 after landing another job (right as Core 24/7 finally wanted to interview), and Schae Walton is live at Client Submission (submitted 8/12 at BR $37.53 / $25/hr) awaiting manager feedback that's been slow due to client bandwidth.",
@@ -10027,7 +10027,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 26,
+      "days_open": 27,
       "submittals": 3,
       "readiness_score": 83,
       "band": "minor",
@@ -10082,8 +10082,8 @@
       "llm_status": "ok",
       "jd_hash": "d38b6c3ce4e8d140",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12273&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three real submittals on this urgent C2H Drafter/Designer req: Cassie Hulse is live with an in-person interview set for Mon 8/31, while Chase Hughbanks (rejected 8/18 as a poor team fit) and Mark Aldridge (rejected 8/13 for insufficient experience) are closed. One candidate in flight, client actively interviewing.",
@@ -10163,7 +10163,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:55:56+00:00"
       }
     },
@@ -10175,7 +10175,7 @@
       "salesperson": "Jordan Kubiak",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 11,
+      "days_open": 12,
       "submittals": 2,
       "readiness_score": 83,
       "band": "minor",
@@ -10228,8 +10228,8 @@
       "llm_status": "ok",
       "jd_hash": "fe12ab7018528dbf",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12319&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Exclusive backfill req with 2 submittals: Alison Bennett is live at Client Submission (subbed 8/28 at $120K, awaiting Marco's review), and Cherika Rodriguez was rejected 8/24 for wrong-industry lease experience. Only one candidate in flight; client-side feedback not yet received.",
@@ -10286,7 +10286,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:02:09+00:00"
       }
     },
@@ -10298,7 +10298,7 @@
       "salesperson": "Zoie Floyd",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 0,
       "readiness_score": 83,
       "band": "minor",
@@ -10353,8 +10353,8 @@
       "llm_status": "ok",
       "jd_hash": "b3a6d2e1ed8ba91b",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12348&view=Overview",
       "submittal_intel": null
     },
@@ -10366,7 +10366,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 11,
+      "days_open": 12,
       "submittals": 0,
       "readiness_score": 84,
       "band": "minor",
@@ -10426,8 +10426,8 @@
       "llm_status": "ok",
       "jd_hash": "243fad9529463a77",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12316&view=Overview",
       "submittal_intel": null
     },
@@ -10494,8 +10494,8 @@
       "llm_status": "ok",
       "jd_hash": "e203104e22b092df",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12339&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Only one submittal on this exclusive 2-position req: Ashleigh Wagstaff was submitted to the client 8/28 at $50/hr (bill rate 73) and is awaiting client feedback. Pipeline is thin for a 2-headcount exclusive \u2014 more sourcing needed.",
@@ -10526,7 +10526,7 @@
             "fit_rationale": "Strong ProCore-and-construction-coordination match to the JD's core ask; confirming the client accepts the top-of-band $50/hr rate would de-risk the placement."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:03:18+00:00"
       }
     },
@@ -10593,8 +10593,8 @@
       "llm_status": "ok",
       "jd_hash": "2701f7a44c94bf2c",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "re-scored \u2014 JD/priority changed",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=11980&view=Overview",
       "submittal_intel": null
     },
@@ -10659,8 +10659,8 @@
       "llm_status": "ok",
       "jd_hash": "1db4d1c0da978200",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12044&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "4 submittals on this Division Order Analyst req: 1 in-flight (Olivia Heid, submitted 8/26 at $95K, awaiting client feedback), and 3 closed (Cristina Munos rejected post-CFO interview for team-culture fit, Shwanda Freeman rejected/unreachable, George Miller withdrew). Client is an active, responsive manager (Marco Soto) who has filled 3 roles with OakTree this year.",
@@ -10759,7 +10759,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 61,
+      "days_open": 62,
       "submittals": 6,
       "readiness_score": 86,
       "band": "ready",
@@ -10821,8 +10821,8 @@
       "llm_status": "ok",
       "jd_hash": "4248a199d212082a",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12123&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "All 6 submittals on this req are 'Reject Cand. Not Considered' \u2014 nothing is currently in flight. Only Ryan Puls reached an actual client submission (declined by Miratech 8/5); the other five look like database mis-matches (IT, data-engineering, process-engineering, and an over-experienced applicant) that never got real traction.",
@@ -10962,7 +10962,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 54,
+      "days_open": 55,
       "submittals": 3,
       "readiness_score": 86,
       "band": "ready",
@@ -11024,8 +11024,8 @@
       "llm_status": "ok",
       "jd_hash": "03f2aa13e939e85f",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12138&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "All 3 candidates on this req are at Client Submission with no rejections yet \u2014 Taz Abdel ($190k, 20 days silent) is stalled awaiting client feedback, while Mohammad Al Fahel ($180k) and Domenico Puleo ($170k) were submitted more recently. Notable client-side signal: Mohammad was already submitted by a competing agency and is interviewing, and Domenico's resume shows E.I.T. (not a licensed PE) against a JD that requires a PE.",
@@ -11112,7 +11112,7 @@
       "salesperson": "Major Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 45,
+      "days_open": 46,
       "submittals": 1,
       "readiness_score": 86,
       "band": "ready",
@@ -11167,8 +11167,8 @@
       "llm_status": "ok",
       "jd_hash": "881f5ec6894ba047",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12176&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One submittal on this req (Jerry J. Lataquin), submitted 7/20 and immediately marked 'Reject Cand. Not Considered' the same day with no notes; pipeline is effectively empty with nothing in flight.",
@@ -11257,8 +11257,8 @@
       "llm_status": "ok",
       "jd_hash": "7aa387188cc1dcd7",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12240&view=Overview",
       "submittal_intel": null
     },
@@ -11323,8 +11323,8 @@
       "llm_status": "ok",
       "jd_hash": "fe8725b838ff4c8c",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12262&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Five submittals on this exclusive AP Manager req: two are at Interview Complete and actively in play \u2014 Brandye Clark (onsite scheduled 8/31) and La Keisha Davis (onsite done 8/25, feedback promised Tuesday) \u2014 while Cassandra Hollins sat at Client Submission until the client declined an interview on 8/28. The other two candidates were rejected at screen for lacking the required AP software (OpenInvoice/Quorum/OpenTicket).",
@@ -11438,7 +11438,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:55:16+00:00"
       }
     },
@@ -11507,8 +11507,8 @@
       "llm_status": "ok",
       "jd_hash": "b8b84df9c9d17e53",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12299&view=Overview",
       "submittal_intel": null
     },
@@ -11574,8 +11574,8 @@
       "llm_status": "ok",
       "jd_hash": "1a8ba140640f69df",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12310&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One candidate in flight on this exclusive req: Gloria Gomez was submitted to client 8/25 at $95/hr pay / $116.85 bill and sits at Client Submission with no client feedback yet. Pipeline is thin \u2014 single submittal, awaiting client response.",
@@ -11606,7 +11606,7 @@
             "fit_rationale": "Strong technical and EPC-experience alignment for a structural revamp role; confirming Houston on-site availability and getting client sign-off on the above-range rate would de-risk the placement."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:59:07+00:00"
       }
     },
@@ -11672,8 +11672,8 @@
       "llm_status": "ok",
       "jd_hash": "adf2a3ad4ad6a588",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12314&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One submittal on this Reg E/NACHA disputes team-lead req: Miracle Goodluck, submitted 8/25 at $50/hr pay / $70 bill and rejected two days later for lack of recent relevant experience. Pipeline is currently empty and the req is still accepting candidates.",
@@ -11705,7 +11705,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:00:39+00:00"
       }
     },
@@ -11717,7 +11717,7 @@
       "salesperson": "Drew Ireland",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 11,
+      "days_open": 12,
       "submittals": 1,
       "readiness_score": 86,
       "band": "ready",
@@ -11773,8 +11773,8 @@
       "llm_status": "ok",
       "jd_hash": "177d16dd0e0ed5a9",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12315&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One submittal on this req (Deleta Wright, submitted 8/27) which was rejected same-day as 'Reject Cand. Not Considered' with no notes recorded; nothing currently in flight and no client-side signal to read.",
@@ -11796,7 +11796,7 @@
             "fit_rationale": ""
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:00:45+00:00"
       }
     },
@@ -11808,7 +11808,7 @@
       "salesperson": "Chuck Bell",
       "recruiting_manager": "",
       "branch": "OakTree",
-      "days_open": 11,
+      "days_open": 12,
       "submittals": 3,
       "readiness_score": 86,
       "band": "ready",
@@ -11862,8 +11862,8 @@
       "llm_status": "ok",
       "jd_hash": "4e32e71a05f667da",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12317&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three candidates were submitted to the client in a tight window (8/26\u20138/28), all currently at Client Submission with no client-side feedback yet. All three are in-flight and recently touched \u2014 nothing stalled and no rejections to learn from yet.",
@@ -11938,7 +11938,7 @@
             "fit_rationale": "Genuine O&G pedigree and multi-ERP fit make her viable; confirming she'll engage with hands-on transactional purchasing (vs. strategic sourcing management) would de-risk her."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:01:18+00:00"
       }
     },
@@ -12011,8 +12011,8 @@
       "llm_status": "ok",
       "jd_hash": "f908f054c7319790",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12332&view=Overview",
       "submittal_intel": null
     },
@@ -12024,7 +12024,7 @@
       "salesperson": "Zoie Floyd",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 3,
+      "days_open": 4,
       "submittals": 0,
       "readiness_score": 86,
       "band": "ready",
@@ -12051,7 +12051,7 @@
         "pay_rate"
       ],
       "no_client_access": false,
-      "outcome_score": 68,
+      "outcome_score": 28,
       "is_recruitable_today": true,
       "role_summary": "Senior IT project/program manager leading large, complex cross-functional technology initiatives for Williams \u2014 a 12-month W2 contract, Tulsa-based hybrid (Mon-Thu onsite, Fri remote), the kind of PMO/delivery leader who runs governance, risk registers, and executive reporting.",
       "role_family": "IT project/program management (midstream corporate IT)",
@@ -12087,8 +12087,8 @@
       "llm_status": "ok",
       "jd_hash": "761808a17738416d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12352&view=Overview",
       "submittal_intel": null
     },
@@ -12155,8 +12155,8 @@
       "llm_status": "ok",
       "jd_hash": "54c17cc44da8ca01",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12096&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Three real submittals on this exclusive req: Anthony Mannering rejected 8/19 (client is a former employer with reliability + rate concerns), Nikki Lopez interviewed 8/21 with a positive read and received a direct-hire offer but declined it on 8/25, and Monica Ciuffarin-Zupin has sat at Client Submission since 8/3 with no client feedback and an unresolved duplicate-submission (Koch) ownership question.",
@@ -12311,8 +12311,8 @@
       "llm_status": "ok",
       "jd_hash": "5b24c3d57ff94ee5",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12186&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Exclusive Nabors Billing Coordinator II req has 4 in-flight candidates (Evvia at Interview Complete with the strongest post-interview signal, Antoinette at Interview Scheduled but already interviewed 8/12, plus Kate and Leigh Ann at Interview Complete) and 1 candidate (Breyundria) internally rejected before reaching the client; three of the four in-flight candidates have gone 19-28 days without activity and need a client-status chase.",
@@ -12514,8 +12514,8 @@
       "llm_status": "ok",
       "jd_hash": "494b98aa68b7f76d",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12214&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Two real submittals on this Quality Coordinator req: Kelly Garrett completed her client interview 8/24 and is in-flight awaiting an offer decision (client indicated the parallel Mechanical role 12215 filled and she's now being considered specifically for Quality). Jeffery Clinton was submitted 7/29 and rejected 8/17 as 'Not A Good Fit' with no specific reason recorded.",
@@ -12627,8 +12627,8 @@
       "llm_status": "ok",
       "jd_hash": "a1f24f3b1267ee21",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12216&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Single candidate on this 2-position Scheduler req: Arbaz Shariff was submitted to OG&E on 8/7 at $45/hr and sits in Client Submission awaiting interview feedback. As of the last note (8/17) Brooke was chasing the client for interview scheduling \u2014 no client response for two weeks.",
@@ -12726,8 +12726,8 @@
       "llm_status": "ok",
       "jd_hash": "c88e99e7d563fdea",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12217&view=Overview",
       "submittal_intel": null
     },
@@ -12794,8 +12794,8 @@
       "llm_status": "ok",
       "jd_hash": "52fb7f3674e332b4",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12245&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Four live submittals on this exclusive CITGO Turnaround Buyer req, all still in flight: Lisa Ramirez has a virtual interview locked for 9/2, while Joshua Jimenez, Johnny Cantu V, and Angela Koole sit at Client Submission. Client-side feedback is slow \u2014 Cantu (21 days) and Koole (10 days) have gone quiet, and CITGO signaled next steps on Jimenez but another agency is also representing him.",
@@ -12897,7 +12897,7 @@
             "fit_rationale": "The only candidate with a confirmed TWIC and a strong expediting match at the lowest rate; chase client feedback and address the recent field gap to move her forward."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:54:08+00:00"
       }
     },
@@ -12963,8 +12963,8 @@
       "llm_status": "ok",
       "jd_hash": "88dc9fd712154580",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12292&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "Single submittal on this req: Skyler Trent submitted to Mid Continent on 8/18 at $105K and is live at Client Submission \u2014 client is actively reviewing the resume as of 8/25 and Gracie collected references on 8/28. No rejections yet on the pipeline.",
@@ -12996,7 +12996,7 @@
             "fit_rationale": "Solid cross-functional IT PM with Agile and large-project experience and the right Tulsa relocation intent, but confirming his true YOE (5 vs 6+) and Microsoft Project/ServiceNow familiarity would de-risk the client screen."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T14:57:05+00:00"
       }
     },
@@ -13065,8 +13065,8 @@
       "llm_status": "ok",
       "jd_hash": "46de76f9d63ab5af",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12302&view=Overview",
       "submittal_intel": null
     },
@@ -13078,7 +13078,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 7,
+      "days_open": 8,
       "submittals": 0,
       "readiness_score": 88,
       "band": "ready",
@@ -13133,8 +13133,8 @@
       "llm_status": "ok",
       "jd_hash": "b18f152693acb917",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12326&view=Overview",
       "submittal_intel": null
     },
@@ -13200,8 +13200,8 @@
       "llm_status": "ok",
       "jd_hash": "429c5d7cbfcc59a5",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12334&view=Overview",
       "submittal_intel": {
         "pipeline_summary": "One candidate in flight on this exclusive req: Rayfield May was submitted to H+M on 8/25 at $95/hr (PR, negotiable; BR $123.50) and confirmed his Right to Represent plus references on 8/26. No client feedback yet and no rejections on record.",
@@ -13232,7 +13232,7 @@
             "fit_rationale": "Strong technical and Aspen-HYSYS alignment makes him viable; confirming rate approval above the posted range and the client's tolerance for his top-of-band seniority would de-risk the placement."
           }
         ],
-        "from_cache": false,
+        "from_cache": true,
         "analyzed_at": "2026-09-01T15:02:27+00:00"
       }
     },
@@ -13244,7 +13244,7 @@
       "salesperson": "Carley Greene",
       "recruiting_manager": "",
       "branch": "CTS",
-      "days_open": 5,
+      "days_open": 6,
       "submittals": 0,
       "readiness_score": 88,
       "band": "ready",
@@ -13296,8 +13296,8 @@
       "llm_status": "ok",
       "jd_hash": "616962ca1faaf163",
       "first_scored_at": "2026-09-01T15:04:06+00:00",
-      "last_scored_at": "2026-09-01T15:04:06+00:00",
-      "change_status": "new req",
+      "last_scored_at": "2026-09-01T18:00:09+00:00",
+      "change_status": "stable",
       "bullhorn_url": "https://cls41.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=12345&view=Overview",
       "submittal_intel": null
     }
